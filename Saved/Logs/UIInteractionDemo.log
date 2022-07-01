@@ -1,0 +1,1413 @@
+﻿Log file open, 07/01/22 20:18:11
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: UIInteractionDemo
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.224272
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemPico
+LogPluginManager: Mounting plugin PicoXR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: Pico
+LogOnline: Pico: Pico SDK already initialized!
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [Pico]
+LogInit: Build: ++UE4+Release-4.27-CL-0
+LogInit: Engine Version: 4.27.2-0+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-0+++UE4+Release-4.27
+LogInit: Net CL: 0
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-10700F CPU @ 2.90GHz, GPU: AMD Radeon(TM) RX 560 Series
+LogInit: Compiled (64-bit): Jun 16 2022 17:32:24
+LogInit: Compiled with Visual C++: 19.29.30143.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -skipcompile
+LogInit: Base Directory: D:/Zero Caliber UE/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 0
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Engine.ini]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.MobileMSAA:4]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.MobileHDR:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Engine.ini]
+[2022.07.01-12.18.12:475][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Engine.ini]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Engine.ini]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.07.01-12.18.12:475][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Engine.ini]
+[2022.07.01-12.18.12:475][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Engine.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.01-12.18.12:490][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.01-12.18.12:490][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.07.01-12.18.12:490][  0]LogHAL: Display: Platform has ~ 32 GB [34294738944 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.07.01-12.18.12:490][  0]LogInit: Going up to parent DeviceProfile []
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.07.01-12.18.12:490][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.07.01-12.18.12:506][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Scalability.ini]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.07.01-12.18.12:507][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Engine.ini]
+[2022.07.01-12.18.12:507][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Config/Windows/Editor.ini]
+[2022.07.01-12.18.12:509][  0]LogInit: Computer: 07C8210ABC
+[2022.07.01-12.18.12:509][  0]LogInit: User: Admin
+[2022.07.01-12.18.12:509][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.07.01-12.18.12:509][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.07.01-12.18.12:509][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.07.01-12.18.12:509][  0]LogMemory: Platform Memory Stats for Windows
+[2022.07.01-12.18.12:509][  0]LogMemory: Process Physical Memory: 146.68 MB used, 146.68 MB peak
+[2022.07.01-12.18.12:509][  0]LogMemory: Process Virtual Memory: 133.88 MB used, 133.88 MB peak
+[2022.07.01-12.18.12:509][  0]LogMemory: Physical Memory: 15358.16 MB used,  17347.85 MB free, 32706.01 MB total
+[2022.07.01-12.18.12:509][  0]LogMemory: Virtual Memory: 134196992.00 MB used,  20735.79 MB free, 134217728.00 MB total
+[2022.07.01-12.18.12:519][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.07.01-12.18.12:593][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.07.01-12.18.12:598][  0]LogInit: Overriding language with editor language configuration option (en).
+[2022.07.01-12.18.12:598][  0]LogInit: Using OS detected locale (zh-CN).
+[2022.07.01-12.18.12:829][  0]LogInit: Setting process to per monitor DPI aware
+[2022.07.01-12.18.12:854][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.07.01-12.18.12:875][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.07.01-12.18.12:875][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.07.01-12.18.13:145][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.07.01-12.18.13:149][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.07.01-12.18.13:149][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.07.01-12.18.13:149][  0]LogD3D11RHI: D3D11 adapters:
+[2022.07.01-12.18.13:296][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) RX 560 Series' (Feature Level 11_0)
+[2022.07.01-12.18.13:296][  0]LogD3D11RHI:       4075/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2022.07.01-12.18.13:301][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.07.01-12.18.13:301][  0]LogD3D11RHI:       0/0/16353 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.07.01-12.18.13:301][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.07.01-12.18.13:301][  0]LogD3D11RHI:     Description : AMD Radeon(TM) RX 560 Series
+[2022.07.01-12.18.13:301][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.07.01-12.18.13:301][  0]LogD3D11RHI:     DeviceId    : 67ef
+[2022.07.01-12.18.13:301][  0]LogD3D11RHI:     SubSysId    : 30001787
+[2022.07.01-12.18.13:301][  0]LogD3D11RHI:     Revision    : 00cf
+[2022.07.01-12.18.13:302][  0]LogD3D11RHI:     DedicatedVideoMemory : 4273434624 bytes
+[2022.07.01-12.18.13:302][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.01-12.18.13:302][  0]LogD3D11RHI:     SharedSystemMemory : 17147369472 bytes
+[2022.07.01-12.18.13:302][  0]LogD3D11RHI:     AdapterLuid : 0 95274
+[2022.07.01-12.18.13:310][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.07.01-12.18.13:310][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2022.07.01-12.18.13:310][  0]LogWindows: EnumDisplayDevices:
+[2022.07.01-12.18.13:310][  0]LogWindows:    0. 'AMD Radeon(TM) RX 560 Series' (P:1 D:1)
+[2022.07.01-12.18.13:310][  0]LogWindows:    1. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2022.07.01-12.18.13:311][  0]LogWindows:    2. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2022.07.01-12.18.13:311][  0]LogWindows:    3. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2022.07.01-12.18.13:311][  0]LogWindows:    4. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2022.07.01-12.18.13:312][  0]LogWindows:    5. 'AMD Radeon(TM) RX 560 Series' (P:0 D:0)
+[2022.07.01-12.18.13:312][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2022.07.01-12.18.13:312][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) RX 560 Series
+[2022.07.01-12.18.13:312][  0]LogD3D11RHI:   Driver Version: Adrenalin 21.30.23.04 (internal:30.0.13023.4001, unified:30.0.13023.4001)
+[2022.07.01-12.18.13:312][  0]LogD3D11RHI:      Driver Date: 12-16-2021
+[2022.07.01-12.18.13:312][  0]LogRHI: Texture pool is 2424 MB (70% of 3464 MB)
+[2022.07.01-12.18.13:363][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2022.07.01-12.18.13:363][  0]LogD3D11RHI:     Description : AMD Radeon(TM) RX 560 Series
+[2022.07.01-12.18.13:363][  0]LogD3D11RHI:     VendorId    : 1002
+[2022.07.01-12.18.13:363][  0]LogD3D11RHI:     DeviceId    : 67ef
+[2022.07.01-12.18.13:363][  0]LogD3D11RHI:     SubSysId    : 30001787
+[2022.07.01-12.18.13:363][  0]LogD3D11RHI:     Revision    : 00cf
+[2022.07.01-12.18.13:363][  0]LogD3D11RHI:     DedicatedVideoMemory : 4273434624 bytes
+[2022.07.01-12.18.13:363][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.07.01-12.18.13:363][  0]LogD3D11RHI:     SharedSystemMemory : 17147369472 bytes
+[2022.07.01-12.18.13:363][  0]LogD3D11RHI:     AdapterLuid : 0 95274
+[2022.07.01-12.18.13:485][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2022.07.01-12.18.13:486][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.07.01-12.18.13:486][  0]LogD3D11RHI: Async texture creation enabled
+[2022.07.01-12.18.13:486][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.07.01-12.18.13:497][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2022.07.01-12.18.13:747][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.07.01-12.18.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.07.01-12.18.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.07.01-12.18.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.07.01-12.18.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.07.01-12.18.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.07.01-12.18.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.07.01-12.18.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.07.01-12.18.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.07.01-12.18.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.07.01-12.18.13:775][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.07.01-12.18.13:816][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2022.07.01-12.18.13:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.07.01-12.18.13:818][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.07.01-12.18.13:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.07.01-12.18.13:848][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.07.01-12.18.13:863][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.07.01-12.18.13:876][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.07.01-12.18.13:888][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.07.01-12.18.13:900][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.07.01-12.18.13:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.07.01-12.18.13:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.07.01-12.18.13:932][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.07.01-12.18.13:945][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.07.01-12.18.13:960][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.07.01-12.18.13:972][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.07.01-12.18.13:973][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.07.01-12.18.14:001][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.07.01-12.18.14:109][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.07.01-12.18.14:233][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.07.01-12.18.14:233][  0]LogShaderCompilers: Guid format shader working directory is -1 characters bigger than the processId version (../../../../UE4PlatformSample_IdentifyFriendEtc/Intermediate/Shaders/WorkingDirectory/1316/).
+[2022.07.01-12.18.14:234][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Admin/AppData/Local/Temp/UnrealShaderWorkingDir/BD5B49464DD5882B34ED0B8ACAFBC5BB/'.
+[2022.07.01-12.18.14:234][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.07.01-12.18.14:234][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.07.01-12.18.14:234][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.07.01-12.18.14:955][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.07.01-12.18.15:032][  0]LogDerivedDataCache: Loaded boot cache 0.08s 80MB ../../../../UE4PlatformSample_IdentifyFriendEtc/DerivedDataCache/Boot.ddc.
+[2022.07.01-12.18.15:032][  0]LogDerivedDataCache: Display: Loaded Boot cache: ../../../../UE4PlatformSample_IdentifyFriendEtc/DerivedDataCache/Boot.ddc
+[2022.07.01-12.18.15:032][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../UE4PlatformSample_IdentifyFriendEtc/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.01-12.18.15:033][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.07.01-12.18.15:033][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnginePak pak cache file ../../../Engine/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.07.01-12.18.15:033][  0]LogDerivedDataCache: Unable to find inner node EnginePak for hierarchical cache Hierarchy.
+[2022.07.01-12.18.15:126][  0]LogDerivedDataCache: Speed tests for ../../../Engine/DerivedDataCache took 0.09 seconds
+[2022.07.01-12.18.15:126][  0]LogDerivedDataCache: Display: Performance to ../../../Engine/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=223.87MBs, RandomWriteSpeed=10.48MBs. Assigned SpeedClass 'Local'
+[2022.07.01-12.18.15:128][  0]LogDerivedDataCache: Using Local data cache path ../../../Engine/DerivedDataCache: Writable
+[2022.07.01-12.18.15:128][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.07.01-12.18.15:128][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.07.01-12.18.15:165][  0]LogSlate: Using FreeType 2.10.0
+[2022.07.01-12.18.15:166][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.07.01-12.18.15:197][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2022.07.01-12.18.15:383][  0]LogInit: Selected Device Profile: [Windows]
+[2022.07.01-12.18.15:383][  0]LogInit: Active device profile: [0000019A63A90B00][0000019A62ED5480 49] Windows
+[2022.07.01-12.18.15:383][  0]LogInit: Profiles: [0000019A63A90B00][0000019A62ED5480 49] Windows, [0000019A63A82100][0000019A62EDD600 49] WindowsNoEditor, [0000019A63A91900][0000019A62EE1780 49] WindowsServer, [0000019A63A82E00][0000019A62EE5900 49] WindowsClient, [0000019A63A93C00][0000019A62EE9A80 49] IOS, [0000019A63A80F00][0000019A62EEDC00 49] iPadAir, [0000019A63A93E00][0000019A62EF0200 49] iPadAir2, [0000019A63A28C00][0000019A62EF4440 49] IPadPro, [0000019A63A28D00][0000019A62ED8480 49] iPadAir3, [0000019A63A83B00][0000019A62EF85C0 49] iPadAir4, [0000019A63A2B600][0000019A62EFC700 49] iPadMini2, [0000019A63A83200][0000019A62F04880 49] iPadMini3, [0000019A63A2B800][0000019A62F08A00 49] iPadMini4, [0000019A63A83800][0000019A62F0CB80 49] iPadMini5, [0000019A63A54600][0000019A62F14E40 49] iPhone6, [0000019A63A54700][0000019A62F10E80 49] iPodTouch6, [0000019A63A92900][0000019A62F1D140 49] iPhone7, [0000019A63A92800][0000019A62F19180 49] iPodTouch7, [0000019A63A54100][0000019A62F21300 49] iPhone5S, [0000019A63A28700][0000019A62F25480 49] iPhone6Plus, [0000019A63A56500][0000019A62F29600 49] iPhone6S, [0000019A63A29300][0000019A62F2D780 49] iPhone6SPlus, [0000019A63A57B00][0000019A63F41900 49] iPhone7Plus, [0000019A63A2B500][0000019A63F45A80 49] iPhoneSE, [0000019A63A92600][0000019A63F49C00 49] iPhone8, [0000019A63A28600][0000019A63F4C200 49] iPhone8Plus, [0000019A63A92200][0000019A63F50380 49] iPhoneX, [0000019A63A2B300][0000019A63F54500 49] iPhoneXS, [0000019A63A93400][0000019A62F00640 49] iPhoneXSMax, [0000019A63A2AD00][0000019A63F58780 49] iPhoneXR, [0000019A63A90200][0000019A63F5C8C0 49] iPhone11, [0000019A63A29E00][0000019A63F64A40 49] iPhone11Pro, [0000019A63A92A00][0000019A63F68BC0 49] iPhone11ProMax, [0000019A63A2B700][0000019A63F6CD40 49] iPhoneSE2, [0000019A63A90D00][0000019A63F70EC0 49] iPhone12Mini, [0000019A63A29F00][0000019A63F75040 49] iPhone12, [0000019A63A90700][0000019A63F791C0 49] iPhone12Pro, [0000019A63A29400][0000019A63F7D340 49] iPhone12ProMax, [0000019A63A90C00][0000019A63F814C0 49] iPadPro105, [0000019A63A29700][0000019A63F85640 49] iPadPro129, [0000019A63A90100][0000019A63F897C0 49] iPadPro97, [0000019A63A2BC00][0000019A63F8D940 49] iPadPro2_129, [0000019A63A90800][0000019A63F91AC0 49] iPad5, [0000019A63A2B100][0000019A63F940C0 49] iPad6, [0000019A63A90500][0000019A63F98240 49] iPad7, [0000019A63A2A800][0000019A63F9C3C0 49] iPad8, [0000019A63A90600][0000019A63FA0540 49] iPadPro11, [0000019A63A29500][0000019A63FA46C0 49] iPadPro2_11, [0000019A63A91C00][0000019A63F60800 49] iPadPro3_129, [0000019A63A2AC00][0000019A63FA8940 49] iPadPro4_129, [0000019A63A92500][0000019A63FACA80 49] AppleTV, [0000019A63A2A300][0000019A63FB0BC0 49] AppleTV4K, [0000019A63A91600][0000019A63FB8D40 49] TVOS, [0000019A63A2A900][0000019A63FBCEC0 49] Mac, [0000019A63A93500][0000019A63FC1040 49] MacClient, [0000019A63A2AF00][0000019A63FC51C0 49] MacNoEditor, [0000019A63A93900][0000019A63FC9340 49] MacServer, [0000019A63A2A000][0000019A63FCD4C0 49] Linux, [0000019A63A93000][0000019A63FD1640 49] LinuxAArch64, [0000019A63A28200][0000019A63FD57C0 49] LinuxNoEditor, [0000019A63A91B00][0000019A63FD9940 49] LinuxAArch64NoEditor, [0000019A63A29B00][0000019A63FDDAC0 49] LinuxClient, [0000019A63A92300][0000019A63FE00C0 49] LinuxAArch64Client, [0000019A63A28F00][0000019A63FE4240 49] LinuxServer, [0000019A63A90300][0000019A63FE83C0 49] LinuxAArch64Server, [0000019A63A28100][0000019A63FEC540 49] Android, [0000019A63A93F00][0000019A63FF06C0 49] Android_Low, [0000019A63A2BD00][0000019A63FF4840 49] Android_Mid, [0000019A63A93B00][0000019A63FB4980 49] Android_High, [0000019A63A2B400][0000019A63FF8AC0 49] Android_Default, [0000019A63A91E00][0000019A63FFCC00 49] Android_Adreno4xx, [0000019A63A82400][0000019A64000D40 49] Android_Adreno5xx_Low, [0000019A63A56200][0000019A64008EC0 49] Android_Adreno5xx, [0000019A63A83A00][0000019A6400D040 49] Android_Adreno6xx, [0000019A63A55100][0000019A640111C0 49] Android_Adreno6xx_Vulkan, [0000019A63A83700][0000019A64015340 49] Android_Mali_T6xx, [0000019A63A55000][0000019A640194C0 49] Android_Mali_T7xx, [0000019A63A82600][0000019A6401D640 49] Android_Mali_T8xx, [0000019A63A54900][0000019A640217C0 49] Android_Mali_G71, [0000019A63A82D00][0000019A64025940 49] Android_Mali_G72, [0000019A63A55F00][0000019A64029AC0 49] Android_Mali_G72_Vulkan, [0000019A63A80E00][0000019A6402C0C0 49] Android_Mali_G76, [0000019A63A54C00][0000019A64030240 49] Android_Mali_G76_Vulkan, [0000019A63A81E00][0000019A640343C0 49] Android_Mali_G77, [0000019A63A55B00][0000019A64038540 49] Android_Mali_G77_Vulkan, [0000019A63A80500][0000019A6403C6C0 49] Android_Mali_G78, [0000019A63A55400][0000019A64040840 49] Android_Mali_G78_Vulkan, [0000019A63A82700][0000019A640449C0 49] Android_Mali_G710, [0000019A63A57F00][0000019A64048B40 49] Android_Mali_G710_Vulkan, [0000019A63A82300][0000019A64004C80 49] Android_Vulkan_SM5, [0000019A63A57E00][0000019A6404CDC0 49] Android_PowerVR_G6xxx, [0000019A63A83000][0000019A64050F00 49] Android_PowerVR_GT7xxx, [0000019A63A55500][0000019A64059080 49] Android_PowerVR_GE8xxx, [0000019A63A81900][0000019A6405D200 49] Android_PowerVR_GM9xxx, [0000019A63A57700][0000019A64061380 49] Android_PowerVR_GM9xxx_Vulkan, [0000019A63A81800][0000019A64065500 49] Android_TegraK1, [0000019A63A54300][0000019A64069680 49] Android_Unknown_Vulkan, [0000019A63A82200][0000019A6406D800 49] Lumin, [0000019A63A56800][0000019A64071980 49] Lumin_Desktop, [0000019A63A81F00][0000019A64075B00 49] HoloLens, 
+[2022.07.01-12.18.15:586][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.07.01-12.18.15:586][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.07.01-12.18.15:586][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.07.01-12.18.15:587][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.07.01-12.18.15:587][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.07.01-12.18.15:613][  0]LogNetVersion: UIInteractionDemo 1.0.0, NetCL: 0, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2951890746)
+[2022.07.01-12.18.15:989][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.07.01-12.18.16:054][  0]LogUObjectArray: 17213 objects as part of root set at end of initial load.
+[2022.07.01-12.18.16:054][  0]LogUObjectAllocator: 4309376 out of 0 bytes used by permanent object pool.
+[2022.07.01-12.18.16:054][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.07.01-12.18.16:868][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: FE65A4C8497257B39F2FC7925EBA3649 | Instance: 298293FF4C32A65E26811DB5C0B13372 (07C8210ABC-1316).
+[2022.07.01-12.18.17:249][  0]LogPython: Using Python 3.7.7
+[2022.07.01-12.18.17:840][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.07.01-12.18.17:857][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.07.01-12.18.18:181][  0]SourceControl: Source control is disabled
+[2022.07.01-12.18.18:181][  0]SourceControl: Source control is disabled
+[2022.07.01-12.18.18:201][  0]SourceControl: Source control is disabled
+[2022.07.01-12.18.18:218][  0]SourceControl: Source control is disabled
+[2022.07.01-12.18.18:241][  0]SourceControl: Source control is disabled
+[2022.07.01-12.18.18:260][  0]LogUProjectInfo: Found projects:
+[2022.07.01-12.18.18:948][  0]LogOpenImageDenoise: OIDN starting up
+[2022.07.01-12.18.19:090][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.07.01-12.18.19:147][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.01-12.18.19:148][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.07.01-12.18.19:340][  0]LogCollectionManager: Loaded 0 collections in 0.000545 seconds
+[2022.07.01-12.18.19:491][  0]LogFileCache: Scanning file cache for directory 'D:/UE4PlatformSample_IdentifyFriendEtc/Saved/Collections/' took 0.00s
+[2022.07.01-12.18.19:491][  0]LogFileCache: Scanning file cache for directory 'D:/UE4PlatformSample_IdentifyFriendEtc/Content/Developers/Admin/Collections/' took 0.00s
+[2022.07.01-12.18.19:491][  0]LogFileCache: Scanning file cache for directory 'D:/UE4PlatformSample_IdentifyFriendEtc/Content/Collections/' took 0.00s
+[2022.07.01-12.18.19:491][  0]LogClass: Display: IntProperty FPicoOnlineSessionSearchResult::PingInMs is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:491][  0]LogClass: Display: IntProperty FPicoOnlineSession::NumOpenPrivateConnections is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:492][  0]LogClass: Display: IntProperty FPicoOnlineSession::NumOpenPublicConnections is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:492][  0]LogClass: Display: IntProperty FPicoOnlineSessionSettings::NumPublicConnections is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:492][  0]LogClass: Display: IntProperty FPicoOnlineSessionSettings::NumPrivateConnections is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:492][  0]LogClass: Display: BoolProperty FPicoOnlineSessionSettings::bShouldAdvertise is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:492][  0]LogClass: Display: BoolProperty FPicoOnlineSessionSettings::bAllowInvites is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:492][  0]LogClass: Display: BoolProperty FPicoOnlineSessionSettings::bUsesPresence is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:492][  0]LogClass: Display: BoolProperty FPicoOnlineSessionSettings::bAllowJoinViaPresence is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:492][  0]LogClass: Display: BoolProperty FPicoOnlineSessionSettings::bAllowJoinViaPresenceFriendsOnly is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:492][  0]LogClass: Display: IntProperty FPicoOnlineSessionSettings::BuildUniqueId is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:495][  0]LogClass: Display: EnumProperty FPicoOnlineSessionSearch::SearchState is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:495][  0]LogClass: Display: IntProperty FPicoOnlineSessionSearch::MaxSearchResults is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:495][  0]LogClass: Display: BoolProperty FPicoOnlineSessionSearch::bIsLanQuery is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:495][  0]LogClass: Display: IntProperty FPicoOnlineSessionSearch::PingBucketSize is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:495][  0]LogClass: Display: IntProperty FPicoOnlineSessionSearch::PlatformHash is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:495][  0]LogClass: Display: FloatProperty FPicoOnlineSessionSearch::TimeoutInSeconds is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:495][  0]LogClass: Display: IntProperty FPicoNamedOnlineSession::HostingPlayerNum is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:495][  0]LogClass: Display: BoolProperty FPicoNamedOnlineSession::bHosting is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: EnumProperty FPicoNamedOnlineSession::SessionState is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: IntProperty FPicoNamedOnlineSession::NumOpenPrivateConnections is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: IntProperty FPicoNamedOnlineSession::NumOpenPublicConnections is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: EnumProperty FPicoFriend::FriendPresenceStatus is not initialized properly. Module:OnlineSubsystemPico File:Private/OnlineSubsystemPicoManager.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: IntProperty FPicoXREyeTrackingData::LeftEyePoseStatus is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: IntProperty FPicoXREyeTrackingData::RightEyePoseStatus is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: IntProperty FPicoXREyeTrackingData::CombinedEyePoseStatus is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: StructProperty FPicoXREyeTrackingData::CombinedEyeGazePoint is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: StructProperty FPicoXREyeTrackingData::CombinedEyeGazeVector is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: FloatProperty FPicoXREyeTrackingData::LeftEyeOpenness is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: FloatProperty FPicoXREyeTrackingData::RightEyeOpenness is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: StructProperty FPicoXREyeTrackingData::LeftEyePositionGuide is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: StructProperty FPicoXREyeTrackingData::RightEyePositionGuide is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: StructProperty FPicoXREyeTrackingData::FoveatedGazeDirection is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: IntProperty FPicoXREyeTrackingData::FoveatedGazeTrackingState is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: IntProperty FPxrSensorState::status is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:496][  0]LogClass: Display: StructProperty FPxrSensorState::poseQuat is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:497][  0]LogClass: Display: StructProperty FPxrSensorState::poseVector is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:497][  0]LogClass: Display: StructProperty FPxrSensorState::globalPoseQuat is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:497][  0]LogClass: Display: StructProperty FPxrSensorState::globalPoseVector is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:497][  0]LogClass: Display: StructProperty FPxrSensorState::angularVelocity is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:497][  0]LogClass: Display: StructProperty FPxrSensorState::linearVelocity is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:497][  0]LogClass: Display: StructProperty FPxrSensorState::angularAcceleration is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:497][  0]LogClass: Display: StructProperty FPxrSensorState::linearAcceleration is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:497][  0]LogClass: Display: IntProperty FPxrSensorState::poseTimeStampNs is not initialized properly. Module:PicoXRHMD File:Public/PXR_HMDFunctionLibrary.h
+[2022.07.01-12.18.19:498][  0]LogClass: Display: 44 Uninitialized script struct members found including 0 object properties
+[2022.07.01-12.18.19:499][  0]LogEngine: Initializing Engine...
+[2022.07.01-12.18.19:499][  0]PxrUnreal: Display: PXR_DP Start CreateTrackingSystem!
+[2022.07.01-12.18.19:500][  0]PxrUnreal: Display: PXR_DP startup begin
+[2022.07.01-12.18.19:500][  0]PxrUnreal: Display: PXR_DP RHIString:
+[2022.07.01-12.18.19:500][  0]PxrUnreal: Display: PXR_DP Construct!
+[2022.07.01-12.18.19:500][  0]PxrUnreal: Display: PXR_DP ConnectServer!
+[2022.07.01-12.18.19:505][  0]PxrUnreal: Display: PXR_DP Destruct DisConnectServer!
+[2022.07.01-12.18.19:505][  0]PxrUnreal: Display: PXR_DP DLL Path:../../../../UE4PlatformSample_IdentifyFriendEtc/Plugins/PicoXR/Libs/Win64/
+[2022.07.01-12.18.23:590][  0]PxrUnreal: Display: PXR_DP RegisterDemo!
+[2022.07.01-12.18.23:590][  0]PxrUnreal: Display: PXR_DP CreateSharedTexture2D!
+[2022.07.01-12.18.23:801][  0]PxrUnreal: Display: PXR_DP Shared Texture Created!
+[2022.07.01-12.18.23:801][  0]PxrUnreal: Display: PXR_DP Left Shared Handle ID:2147500610
+[2022.07.01-12.18.23:801][  0]PxrUnreal: Display: PXR_DP Right Shared Handle ID:1073754818
+[2022.07.01-12.18.23:802][  0]PxrUnreal: Display: PXR_DP TempTexture OK
+[2022.07.01-12.18.23:803][  0]PxrUnreal: Display: PXR_DP start up finished!
+[2022.07.01-12.18.23:803][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.07.01-12.18.23:940][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.07.01-12.18.23:957][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.07.01-12.18.23:979][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.07.01-12.18.23:996][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.07.01-12.18.23:997][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.07.01-12.18.23:998][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.07.01-12.18.23:998][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.07.01-12.18.23:998][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.07.01-12.18.23:998][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.07.01-12.18.23:998][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.07.01-12.18.23:998][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.07.01-12.18.23:998][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.07.01-12.18.23:998][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.07.01-12.18.23:998][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.07.01-12.18.23:998][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.07.01-12.18.23:999][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.07.01-12.18.23:999][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.07.01-12.18.23:999][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.07.01-12.18.23:999][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.07.01-12.18.24:015][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.07.01-12.18.24:015][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.07.01-12.18.24:059][  0]LogAudioMixer: Display: Using Audio Device Realtek HD Audio 2nd output (Realtek(R) Audio)
+[2022.07.01-12.18.24:061][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.07.01-12.18.24:065][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.07.01-12.18.24:065][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.07.01-12.18.24:066][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.07.01-12.18.24:066][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.07.01-12.18.24:066][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.07.01-12.18.24:068][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.07.01-12.18.24:068][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.07.01-12.18.24:068][  0]LogInit: FAudioDevice initialized.
+[2022.07.01-12.18.24:068][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.07.01-12.18.24:068][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.07.01-12.18.24:107][  0]LogDerivedDataCache: Saved boot cache 0.04s 80MB ../../../../UE4PlatformSample_IdentifyFriendEtc/DerivedDataCache/Boot.ddc.
+[2022.07.01-12.18.24:108][  0]LogInit: Texture streaming: Enabled
+[2022.07.01-12.18.24:143][  0]LogAnalytics: Display: [UEEditor.UnrealEngine.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-0+++UE4+Release-4.27
+[2022.07.01-12.18.24:152][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.07.01-12.18.24:153][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.07.01-12.18.24:154][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.07.01-12.18.24:185][  0]LogInit: Transaction tracking system initialized
+[2022.07.01-12.18.24:271][  0]BlueprintLog: New page: Editor Load
+[2022.07.01-12.18.24:531][  0]LocalizationService: Localization service is disabled
+[2022.07.01-12.18.24:616][  0]TimingProfiler: Initialize
+[2022.07.01-12.18.24:616][  0]TimingProfiler: OnSessionChanged
+[2022.07.01-12.18.24:616][  0]LoadingProfiler: Initialize
+[2022.07.01-12.18.24:616][  0]LoadingProfiler: OnSessionChanged
+[2022.07.01-12.18.24:616][  0]NetworkingProfiler: Initialize
+[2022.07.01-12.18.24:616][  0]NetworkingProfiler: OnSessionChanged
+[2022.07.01-12.18.24:616][  0]MemoryProfiler: Initialize
+[2022.07.01-12.18.24:616][  0]MemoryProfiler: OnSessionChanged
+[2022.07.01-12.18.25:228][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.07.01-12.18.25:228][  0]LogCook: Display: Mobile HDR setting 0
+[2022.07.01-12.18.25:870][  0]LogFileCache: Scanning file cache for directory 'D:/UE4PlatformSample_IdentifyFriendEtc/Content/' took 0.00s
+[2022.07.01-12.18.25:871][  0]LogMRC: PicoXRMRCModule Constructed!
+[2022.07.01-12.18.25:871][  0]LogMRC: PicoXRMRCModule startup!
+[2022.07.01-12.18.25:907][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.07.01-12.18.25:910][  0]SourceControl: Source control is disabled
+[2022.07.01-12.18.25:910][  0]LogUnrealEdMisc: Loading editor; pre map load, took 14.621
+[2022.07.01-12.18.25:910][  0]Cmd: MAP LOAD FILE="../../../../UE4PlatformSample_IdentifyFriendEtc/Content/IdentityFriendAndRoom.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.07.01-12.18.25:911][  0]LightingResults: New page: Lighting Build
+[2022.07.01-12.18.25:913][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.07.01-12.18.25:913][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.07.01-12.18.25:913][  0]MapCheck: New page: Map Check
+[2022.07.01-12.18.25:913][  0]LightingResults: New page: Lighting Build
+[2022.07.01-12.18.25:918][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.07.01-12.18.25:922][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2022.07.01-12.18.26:153][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'IdentityFriendAndRoom'.
+[2022.07.01-12.18.26:154][  0]LogAIModule: Creating AISystem for world IdentityFriendAndRoom
+[2022.07.01-12.18.26:164][  0]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2022.07.01-12.18.26:164][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2022.07.01-12.18.26:173][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.07.01-12.18.26:187][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.07.01-12.18.26:187][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.07.01-12.18.26:187][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.08ms to complete.
+[2022.07.01-12.18.26:188][  0]LogFileHelpers: Loading map 'IdentityFriendAndRoom' took 0.277
+[2022.07.01-12.18.26:190][  0]LogUnrealEdMisc: Total Editor Startup Time, took 14.901
+[2022.07.01-12.18.26:256][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2022.07.01-12.18.26:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-12.18.26:316][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-12.18.26:322][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-12.18.26:327][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.07.01-12.18.26:340][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0081 seconds. Added 3731 classes and 884 folders.
+[2022.07.01-12.18.26:343][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.07.01-12.18.26:345][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:345][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/FP_FirstPerson.upack)
+[2022.07.01-12.18.26:345][  0]LogPakFile: OnPakFileMounted2Time == 0.000277
+[2022.07.01-12.18.26:346][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:346][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.07.01-12.18.26:346][  0]LogPakFile: OnPakFileMounted2Time == 0.000176
+[2022.07.01-12.18.26:348][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:348][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/MobileStarterContent.upack)
+[2022.07.01-12.18.26:348][  0]LogPakFile: OnPakFileMounted2Time == 0.000172
+[2022.07.01-12.18.26:349][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:349][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/StarterContent.upack)
+[2022.07.01-12.18.26:349][  0]LogPakFile: OnPakFileMounted2Time == 0.000167
+[2022.07.01-12.18.26:351][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:351][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_2DSideScroller.upack)
+[2022.07.01-12.18.26:351][  0]LogPakFile: OnPakFileMounted2Time == 0.000225
+[2022.07.01-12.18.26:353][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:353][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.07.01-12.18.26:353][  0]LogPakFile: OnPakFileMounted2Time == 0.000174
+[2022.07.01-12.18.26:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:354][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_Flying.upack)
+[2022.07.01-12.18.26:354][  0]LogPakFile: OnPakFileMounted2Time == 0.000170
+[2022.07.01-12.18.26:355][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:355][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_FlyingBP.upack)
+[2022.07.01-12.18.26:355][  0]LogPakFile: OnPakFileMounted2Time == 0.000219
+[2022.07.01-12.18.26:357][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:357][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_Puzzle.upack)
+[2022.07.01-12.18.26:357][  0]LogPakFile: OnPakFileMounted2Time == 0.000160
+[2022.07.01-12.18.26:358][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:358][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_PuzzleBP.upack)
+[2022.07.01-12.18.26:358][  0]LogPakFile: OnPakFileMounted2Time == 0.000149
+[2022.07.01-12.18.26:359][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:359][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_Rolling.upack)
+[2022.07.01-12.18.26:359][  0]LogPakFile: OnPakFileMounted2Time == 0.000151
+[2022.07.01-12.18.26:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:360][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_RollingBP.upack)
+[2022.07.01-12.18.26:360][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2022.07.01-12.18.26:361][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:361][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_SideScroller.upack)
+[2022.07.01-12.18.26:361][  0]LogPakFile: OnPakFileMounted2Time == 0.000137
+[2022.07.01-12.18.26:362][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:362][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.07.01-12.18.26:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000141
+[2022.07.01-12.18.26:363][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:363][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_ThirdPerson.upack)
+[2022.07.01-12.18.26:364][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2022.07.01-12.18.26:365][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:365][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.07.01-12.18.26:365][  0]LogPakFile: OnPakFileMounted2Time == 0.000150
+[2022.07.01-12.18.26:366][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:366][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_TopDown.upack)
+[2022.07.01-12.18.26:366][  0]LogPakFile: OnPakFileMounted2Time == 0.000154
+[2022.07.01-12.18.26:367][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:367][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_TopDownBP.upack)
+[2022.07.01-12.18.26:367][  0]LogPakFile: OnPakFileMounted2Time == 0.000181
+[2022.07.01-12.18.26:368][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:368][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_TwinStick.upack)
+[2022.07.01-12.18.26:368][  0]LogPakFile: OnPakFileMounted2Time == 0.000169
+[2022.07.01-12.18.26:369][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:370][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_TwinStickBP.upack)
+[2022.07.01-12.18.26:370][  0]LogPakFile: OnPakFileMounted2Time == 0.000191
+[2022.07.01-12.18.26:371][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:371][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_Vehicle.upack)
+[2022.07.01-12.18.26:371][  0]LogPakFile: OnPakFileMounted2Time == 0.000147
+[2022.07.01-12.18.26:372][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:372][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_VehicleAdv.upack)
+[2022.07.01-12.18.26:372][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2022.07.01-12.18.26:373][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:373][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.07.01-12.18.26:373][  0]LogPakFile: OnPakFileMounted2Time == 0.000158
+[2022.07.01-12.18.26:375][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:376][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_VehicleBP.upack)
+[2022.07.01-12.18.26:376][  0]LogPakFile: OnPakFileMounted2Time == 0.000158
+[2022.07.01-12.18.26:377][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.07.01-12.18.26:377][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.07.01-12.18.26:377][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.07.01-12.18.26:377][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/Zero Caliber UE/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.07.01-12.18.26:377][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/Zero Caliber UE/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.07.01-12.18.26:377][  0]LogPakFile: OnPakFileMounted2Time == 0.000130
+[2022.07.01-12.18.26:505][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.07.01-12.18.26:510][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.07.01-12.18.26:884][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.07.01-12.18.27:002][  0]LogSlate: Took 0.000730 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.07.01-12.18.27:004][  0]LogSlate: Took 0.000515 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.07.01-12.18.27:007][  0]LogSlate: Took 0.000620 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.07.01-12.18.27:010][  0]LogSlate: Took 0.000424 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.07.01-12.18.27:061][  0]LogSlate: Took 0.003690 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.07.01-12.18.27:437][  0]LogRenderer: Reallocating scene render targets to support 1676x816 Format 10 NumSamples 1 (Frame:1).
+[2022.07.01-12.18.27:836][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.07.01-12.18.27:836][  0]LogLoad: (Engine Initialization) Total time: 16.55 seconds
+[2022.07.01-12.18.27:836][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.07.01-12.18.27:846][  0]PxrUnreal: GetPicoXRHMD Failed!
+[2022.07.01-12.18.27:846][  0]PxrUnreal: Display: PXR_DP PicoXRHMD OK on input!
+[2022.07.01-12.18.27:886][  0]LogAssetRegistry: Asset discovery search completed in 12.6905 seconds
+[2022.07.01-12.18.27:892][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.07.01-12.18.27:894][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.07.01-12.21.33:469][402]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2022.07.01-12.21.42:991][405]UATHelper: Packaging (Android (ASTC)): Running AutomationTool...
+[2022.07.01-12.21.43:977][483]UATHelper: Packaging (Android (ASTC)): Parsing command line: -ScriptsForProject=D:/UE4PlatformSample_IdentifyFriendEtc/UIInteractionDemo.uproject BuildCookRun -nocompileeditor -nop4 -project=D:/UE4PlatformSample_IdentifyFriendEtc/UIInteractionDemo.uproject -cook -stage -archive -archivedirectory=D:/UE4PlatformSample_IdentifyFriendEtc/APPs -package -ue4exe="D:\Zero Caliber UE\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=DerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Android -cookflavor=ASTC -build -target=UIInteractionDemo -clientconfig=Development -utf8output -compile
+[2022.07.01-12.21.44:665][537]UATHelper: Packaging (Android (ASTC)): Dependencies are up to date (0.244s). Skipping compile.
+[2022.07.01-12.21.44:810][548]UATHelper: Packaging (Android (ASTC)): Setting up ProjectParams for D:\UE4PlatformSample_IdentifyFriendEtc\UIInteractionDemo.uproject
+[2022.07.01-12.21.45:070][569]UATHelper: Packaging (Android (ASTC)): ********** BUILD COMMAND STARTED **********
+[2022.07.01-12.21.45:084][570]UATHelper: Packaging (Android (ASTC)): Running: D:\Zero Caliber UE\Engine\Binaries\DotNET\UnrealBuildTool.exe UnrealPak Win64 Development -Project=D:\UE4PlatformSample_IdentifyFriendEtc\UIInteractionDemo.uproject  D:\UE4PlatformSample_IdentifyFriendEtc\UIInteractionDemo.uproject -NoUBTMakefiles  -Manifest="D:\Zero Caliber UE\Engine\Intermediate\Build\Manifest.xml" -NoHotReload -log="D:\Zero Caliber UE\Engine\Programs\AutomationTool\Saved\Logs\UBT-UnrealPak-Win64-Development.txt"
+[2022.07.01-12.21.46:057][643]UATHelper: Packaging (Android (ASTC)):   Writing manifest to D:\Zero Caliber UE\Engine\Intermediate\Build\Manifest.xml
+[2022.07.01-12.21.46:143][649]UATHelper: Packaging (Android (ASTC)):   Building UnrealPak...
+[2022.07.01-12.21.46:145][649]UATHelper: Packaging (Android (ASTC)):   Using Visual Studio 2019 14.29.30143 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.18362.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.07.01-12.21.46:157][650]UATHelper: Packaging (Android (ASTC)):   Building 1 action with 16 processes...
+[2022.07.01-12.21.46:319][662]UATHelper: Packaging (Android (ASTC)):     [1/1] UnrealPak.target
+[2022.07.01-12.21.46:319][662]UATHelper: Packaging (Android (ASTC)):   Total time in Parallel executor: 0.17 seconds
+[2022.07.01-12.21.46:321][662]UATHelper: Packaging (Android (ASTC)):   Total execution time: 1.18 seconds
+[2022.07.01-12.21.46:346][664]UATHelper: Packaging (Android (ASTC)): Took 1.2610015s to run UnrealBuildTool.exe, ExitCode=0
+[2022.07.01-12.21.46:366][665]UATHelper: Packaging (Android (ASTC)): Running: D:\Zero Caliber UE\Engine\Binaries\DotNET\UnrealBuildTool.exe UIInteractionDemo Android Development -Project=D:\UE4PlatformSample_IdentifyFriendEtc\UIInteractionDemo.uproject  D:\UE4PlatformSample_IdentifyFriendEtc\UIInteractionDemo.uproject -NoUBTMakefiles  -remoteini="D:\UE4PlatformSample_IdentifyFriendEtc" -skipdeploy -Manifest="D:\Zero Caliber UE\Engine\Intermediate\Build\Manifest.xml" -NoHotReload -log="D:\Zero Caliber UE\Engine\Programs\AutomationTool\Saved\Logs\UBT-UIInteractionDemo-Android-Development.txt"
+[2022.07.01-12.21.47:001][711]UATHelper: Packaging (Android (ASTC)):    Build the PicoXRHMD Plugin
+[2022.07.01-12.21.47:007][712]UATHelper: Packaging (Android (ASTC)):    Build the PicoXRInput Plugin
+[2022.07.01-12.21.47:345][736]UATHelper: Packaging (Android (ASTC)):   PLATFORM_ANDROID_NDK_VERSION = 220100
+[2022.07.01-12.21.47:345][736]UATHelper: Packaging (Android (ASTC)):   NDK toolchain: r22, NDK version: 24, GccVersion: 4.9, ClangVersion: 11.0.5
+[2022.07.01-12.21.47:737][764]UATHelper: Packaging (Android (ASTC)):   Parsing headers for UIInteractionDemo
+[2022.07.01-12.21.47:755][766]UATHelper: Packaging (Android (ASTC)):     Running UnrealHeaderTool "D:\UE4PlatformSample_IdentifyFriendEtc\UIInteractionDemo.uproject" "D:\UE4PlatformSample_IdentifyFriendEtc\Intermediate\Build\Android\UIInteractionDemo\Development\UIInteractionDemo.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="D:\Zero Caliber UE\Engine\Programs\AutomationTool\Saved\Logs\UHT-UIInteractionDemo-Android-Development.txt"
+[2022.07.01-12.21.47:930][778]UATHelper: Packaging (Android (ASTC)):   LogInit: Display: Loading text-based GConfig....
+[2022.07.01-12.21.50:384][958]UATHelper: Packaging (Android (ASTC)):   Reflection code generated for UIInteractionDemo in 2.6282507 seconds
+[2022.07.01-12.21.50:558][971]UATHelper: Packaging (Android (ASTC)):   Compiling Native 32-bit code with NDK API 'android-24'
+[2022.07.01-12.21.50:558][971]UATHelper: Packaging (Android (ASTC)):   Compiling Native 64-bit code with NDK API 'android-24'
+[2022.07.01-12.22.00:733][ 59]UATHelper: Packaging (Android (ASTC)):   Writing manifest to D:\Zero Caliber UE\Engine\Intermediate\Build\Manifest.xml
+[2022.07.01-12.22.01:396][ 61]UATHelper: Packaging (Android (ASTC)):   Building UIInteractionDemo...
+[2022.07.01-12.22.01:396][ 61]UATHelper: Packaging (Android (ASTC)):   Building 1275 actions with 16 processes...
+[2022.07.01-12.22.02:407][ 64]UATHelper: Packaging (Android (ASTC)):     [1/1275] PCH.ImageWrapper.h [arm64]
+[2022.07.01-12.22.04:079][ 69]UATHelper: Packaging (Android (ASTC)):     [2/1275] PCH.Core.h [armv7]
+[2022.07.01-12.22.04:413][ 70]UATHelper: Packaging (Android (ASTC)):     [3/1275] SharedPCH.Core.ShadowErrors.h [armv7]
+[2022.07.01-12.22.04:751][ 71]UATHelper: Packaging (Android (ASTC)):     [4/1275] PCH.Core.h [arm64]
+[2022.07.01-12.22.04:752][ 71]UATHelper: Packaging (Android (ASTC)):     [5/1275] SharedPCH.Core.ShadowErrors.h [arm64]
+[2022.07.01-12.22.04:752][ 71]UATHelper: Packaging (Android (ASTC)):     [6/1275] SharedPCH.CoreUObject.ShadowErrors.h [armv7]
+[2022.07.01-12.22.05:086][ 72]UATHelper: Packaging (Android (ASTC)):     [7/1275] SharedPCH.CoreUObject.ShadowErrors.h [arm64]
+[2022.07.01-12.22.05:086][ 72]UATHelper: Packaging (Android (ASTC)):     [8/1275] PCH.ImageWrapper.h [armv7]
+[2022.07.01-12.22.05:421][ 73]UATHelper: Packaging (Android (ASTC)):     [9/1275] PCH.OodleDataCompressionFormat.h [arm64]
+[2022.07.01-12.22.05:421][ 73]UATHelper: Packaging (Android (ASTC)):     [10/1275] PCH.OodleDataCompressionFormat.h [armv7]
+[2022.07.01-12.22.05:757][ 74]UATHelper: Packaging (Android (ASTC)):     [11/1275] PCH.CoreUObject.h [armv7]
+[2022.07.01-12.22.06:090][ 75]UATHelper: Packaging (Android (ASTC)):     [12/1275] PCH.OodleNetworkHandlerComponent.h [arm64]
+[2022.07.01-12.22.06:090][ 75]UATHelper: Packaging (Android (ASTC)):     [13/1275] PCH.CoreUObject.h [arm64]
+[2022.07.01-12.22.06:758][ 77]UATHelper: Packaging (Android (ASTC)):     [14/1275] c_loops.cc [armv7]
+[2022.07.01-12.22.07:427][ 79]UATHelper: Packaging (Android (ASTC)):     [15/1275] PCH.InstallBundleManager.h [armv7]
+[2022.07.01-12.22.07:427][ 79]UATHelper: Packaging (Android (ASTC)):     [16/1275] PCH.OodleNetworkHandlerComponent.h [armv7]
+[2022.07.01-12.22.07:762][ 80]UATHelper: Packaging (Android (ASTC)):     [17/1275] AssetEditorMessages.gen.cpp [arm64]
+[2022.07.01-12.22.07:762][ 80]UATHelper: Packaging (Android (ASTC)):     [18/1275] PCH.InstallBundleManager.h [arm64]
+[2022.07.01-12.22.08:766][ 83]UATHelper: Packaging (Android (ASTC)):     [19/1275] UnrealEdMessagesModule.cpp [arm64]
+[2022.07.01-12.22.09:433][ 85]UATHelper: Packaging (Android (ASTC)):     [20/1275] ReliabilityHandlerComponent.cpp [arm64]
+[2022.07.01-12.22.09:769][ 86]UATHelper: Packaging (Android (ASTC)):     [21/1275] Module.UELibSampleRate.cpp [armv7]
+[2022.07.01-12.22.09:769][ 86]UATHelper: Packaging (Android (ASTC)):     [22/1275] SharedPCH.Slate.ShadowErrors.h [armv7]
+[2022.07.01-12.22.09:769][ 86]UATHelper: Packaging (Android (ASTC)):     [23/1275] UnrealEdMessages.init.gen.cpp [arm64]
+[2022.07.01-12.22.10:107][ 87]UATHelper: Packaging (Android (ASTC)):     [24/1275] SharedPCH.Slate.ShadowErrors.h [arm64]
+[2022.07.01-12.22.10:107][ 87]UATHelper: Packaging (Android (ASTC)):     [25/1275] Module.PacketHandler.cpp [arm64]
+[2022.07.01-12.22.11:446][ 91]UATHelper: Packaging (Android (ASTC)):     [26/1275] Analytics.cpp [arm64]
+[2022.07.01-12.22.11:781][ 92]UATHelper: Packaging (Android (ASTC)):     [27/1275] Module.AndroidMediaFactory.gen.cpp [armv7]
+[2022.07.01-12.22.12:450][ 94]UATHelper: Packaging (Android (ASTC)):     [28/1275] Module.AndroidMediaFactory.cpp [armv7]
+[2022.07.01-12.22.13:452][ 97]UATHelper: Packaging (Android (ASTC)):     [29/1275] Module.AudioPlatformConfiguration.cpp [armv7]
+[2022.07.01-12.22.14:789][101]UATHelper: Packaging (Android (ASTC)):     [30/1275] v_compute.cc [armv7]
+[2022.07.01-12.22.14:789][101]UATHelper: Packaging (Android (ASTC)):     [31/1275] Module.Chaos.gen.cpp [arm64]
+[2022.07.01-12.22.14:789][101]UATHelper: Packaging (Android (ASTC)):     [32/1275] Module.AudioPlatformConfiguration.gen.cpp [armv7]
+[2022.07.01-12.22.15:794][104]UATHelper: Packaging (Android (ASTC)):     [33/1275] Module.AudioExtensions.cpp [armv7]
+[2022.07.01-12.22.16:467][106]UATHelper: Packaging (Android (ASTC)):     [34/1275] pre_container.cc [armv7]
+[2022.07.01-12.22.16:804][107]UATHelper: Packaging (Android (ASTC)):     [35/1275] Module.SSL.cpp [arm64]
+[2022.07.01-12.22.18:480][112]UATHelper: Packaging (Android (ASTC)):     [36/1275] EngineMessages.init.gen.cpp [arm64]
+[2022.07.01-12.22.19:484][115]UATHelper: Packaging (Android (ASTC)):     [37/1275] Module.Settings.cpp [armv7]
+[2022.07.01-12.22.19:819][116]UATHelper: Packaging (Android (ASTC)):     [38/1275] PCH.Engine.h [armv7]
+[2022.07.01-12.22.20:153][117]UATHelper: Packaging (Android (ASTC)):     [39/1275] PCH.Engine.h [arm64]
+[2022.07.01-12.22.20:487][118]UATHelper: Packaging (Android (ASTC)):     [40/1275] Module.AutomationController.cpp [armv7]
+[2022.07.01-12.22.21:156][120]UATHelper: Packaging (Android (ASTC)):     [41/1275] Module.AudioMixerCore.cpp [armv7]
+[2022.07.01-12.22.22:159][123]UATHelper: Packaging (Android (ASTC)):     [42/1275] v_base.cc [armv7]
+[2022.07.01-12.22.22:494][124]UATHelper: Packaging (Android (ASTC)):     [43/1275] unitcell.cc [armv7]
+[2022.07.01-12.22.22:830][125]UATHelper: Packaging (Android (ASTC)):     [44/1275] SharedPCH.Engine.NonOptimized.ShadowErrors.h [armv7]
+[2022.07.01-12.22.23:163][126]UATHelper: Packaging (Android (ASTC)):     [45/1275] Module.UdpMessaging.gen.cpp [arm64]
+[2022.07.01-12.22.23:498][127]UATHelper: Packaging (Android (ASTC)):     [46/1275] SharedPCH.Engine.ShadowErrors.h [armv7]
+[2022.07.01-12.22.23:499][127]UATHelper: Packaging (Android (ASTC)):     [47/1275] SharedPCH.Engine.ShadowErrors.h [arm64]
+[2022.07.01-12.22.24:166][129]UATHelper: Packaging (Android (ASTC)):     [48/1275] v_base.cc [arm64]
+[2022.07.01-12.22.24:501][130]UATHelper: Packaging (Android (ASTC)):     [49/1275] Module.ScreenShotComparisonTools.cpp [arm64]
+[2022.07.01-12.22.25:171][132]UATHelper: Packaging (Android (ASTC)):     [50/1275] Module.PlatformCryptoOpenSSL.cpp [armv7]
+[2022.07.01-12.22.26:841][137]UATHelper: Packaging (Android (ASTC)):     [51/1275] Module.PhysicsCore.gen.cpp [arm64]
+[2022.07.01-12.22.27:174][138]UATHelper: Packaging (Android (ASTC)):     [52/1275] SharedPCH.Engine.NonOptimized.ShadowErrors.h [arm64]
+[2022.07.01-12.22.31:857][152]UATHelper: Packaging (Android (ASTC)):     [53/1275] Module.Renderer.gen.cpp [armv7]
+[2022.07.01-12.22.32:191][153]UATHelper: Packaging (Android (ASTC)):     [54/1275] Module.NiagaraShader.gen.cpp [arm64]
+[2022.07.01-12.22.32:527][154]UATHelper: Packaging (Android (ASTC)):     [55/1275] Module.SignalProcessing.cpp [armv7]
+[2022.07.01-12.22.32:527][154]UATHelper: Packaging (Android (ASTC)):     [56/1275] Module.ScreenShotComparisonTools.cpp [armv7]
+[2022.07.01-12.22.33:530][157]UATHelper: Packaging (Android (ASTC)):     [57/1275] ExampleDeviceProfileSelectorModule.cpp [armv7]
+[2022.07.01-12.22.35:200][162]UATHelper: Packaging (Android (ASTC)):     [58/1275] Module.AndroidMedia.cpp [armv7]
+[2022.07.01-12.22.35:869][164]UATHelper: Packaging (Android (ASTC)):     [59/1275] Module.CinematicCamera.gen.cpp [armv7]
+[2022.07.01-12.22.39:548][175]UATHelper: Packaging (Android (ASTC)):     [60/1275] LightPropagationVolumeBlendable.gen.cpp [arm64]
+[2022.07.01-12.22.39:884][176]UATHelper: Packaging (Android (ASTC)):     [61/1275] LightPropagationVolumeRuntimeModule.cpp [arm64]
+[2022.07.01-12.22.40:218][177]UATHelper: Packaging (Android (ASTC)):     [62/1275] AISupportModule.cpp [arm64]
+[2022.07.01-12.22.41:220][180]UATHelper: Packaging (Android (ASTC)):     [63/1275] Module.AndroidMoviePlayer.cpp [armv7]
+[2022.07.01-12.22.42:224][183]UATHelper: Packaging (Android (ASTC)):     [64/1275] Module.GeometryCollectionEngine.gen.cpp [armv7]
+[2022.07.01-12.22.42:560][184]UATHelper: Packaging (Android (ASTC)):     [65/1275] ActorLayerUtilities.init.gen.cpp [armv7]
+[2022.07.01-12.22.44:231][189]UATHelper: Packaging (Android (ASTC)):     [66/1275] Module.BuildPatchServices.1_of_3.cpp [armv7]
+[2022.07.01-12.22.45:568][193]UATHelper: Packaging (Android (ASTC)):     [67/1275] Module.ActorSequence.gen.cpp [armv7]
+[2022.07.01-12.22.47:241][198]UATHelper: Packaging (Android (ASTC)):     [68/1275] Module.AssetTags.gen.cpp [arm64]
+[2022.07.01-12.22.50:584][208]UATHelper: Packaging (Android (ASTC)):     [69/1275] Module.Slate.3_of_5.cpp [armv7]
+[2022.07.01-12.22.50:921][209]UATHelper: Packaging (Android (ASTC)):     [70/1275] Module.GeometryCollectionEngine.gen.cpp [arm64]
+[2022.07.01-12.22.51:257][210]UATHelper: Packaging (Android (ASTC)):     [71/1275] Module.AutomationUtils.cpp [arm64]
+[2022.07.01-12.22.53:264][216]UATHelper: Packaging (Android (ASTC)):     [72/1275] Module.UMG.gen.1_of_10.cpp [arm64]
+[2022.07.01-12.22.54:268][219]UATHelper: Packaging (Android (ASTC)):     [73/1275] Module.CustomMeshComponent.gen.cpp [armv7]
+[2022.07.01-12.22.55:272][222]UATHelper: Packaging (Android (ASTC)):     [74/1275] Module.UMG.gen.9_of_10.cpp [armv7]
+[2022.07.01-12.22.55:607][223]UATHelper: Packaging (Android (ASTC)):     [75/1275] Module.UMG.gen.2_of_10.cpp [arm64]
+[2022.07.01-12.22.55:940][224]UATHelper: Packaging (Android (ASTC)):     [76/1275] Module.UMG.gen.10_of_10.cpp [armv7]
+[2022.07.01-12.22.57:948][230]UATHelper: Packaging (Android (ASTC)):     [77/1275] Module.Slate.1_of_5.cpp [armv7]
+[2022.07.01-12.22.57:948][230]UATHelper: Packaging (Android (ASTC)):     [78/1275] Module.NiagaraAnimNotifies.gen.cpp [arm64]
+[2022.07.01-12.22.58:616][232]UATHelper: Packaging (Android (ASTC)):     [79/1275] Module.AndroidPermission.cpp [armv7]
+[2022.07.01-12.23.00:626][238]UATHelper: Packaging (Android (ASTC)):     [80/1275] AndroidDeviceProfileSelectorRuntimeModule.cpp [armv7]
+[2022.07.01-12.23.02:634][244]UATHelper: Packaging (Android (ASTC)):     [81/1275] Module.UMG.gen.3_of_10.cpp [arm64]
+[2022.07.01-12.23.03:637][247]UATHelper: Packaging (Android (ASTC)):     [82/1275] Module.CinematicCamera.cpp [armv7]
+[2022.07.01-12.23.04:306][249]UATHelper: Packaging (Android (ASTC)):     [83/1275] Module.AssetTags.cpp [arm64]
+[2022.07.01-12.23.05:977][254]UATHelper: Packaging (Android (ASTC)):     [84/1275] Module.GoogleCloudMessaging.cpp [armv7]
+[2022.07.01-12.23.06:980][257]UATHelper: Packaging (Android (ASTC)):     [85/1275] Module.OnlineSubsystemGooglePlay.cpp [armv7]
+[2022.07.01-12.23.07:984][260]UATHelper: Packaging (Android (ASTC)):     [86/1275] Module.Paper2D.gen.cpp [arm64]
+[2022.07.01-12.23.08:986][263]UATHelper: Packaging (Android (ASTC)):     [87/1275] Module.Slate.4_of_5.cpp [armv7]
+[2022.07.01-12.23.11:327][270]UATHelper: Packaging (Android (ASTC)):     [88/1275] Module.Overlay.cpp [armv7]
+[2022.07.01-12.23.11:327][270]UATHelper: Packaging (Android (ASTC)):     [89/1275] Module.GeometryCollectionEngine.cpp [armv7]
+[2022.07.01-12.23.12:665][274]UATHelper: Packaging (Android (ASTC)):     [90/1275] Module.GameplayTags.gen.cpp [arm64]
+[2022.07.01-12.23.13:334][276]UATHelper: Packaging (Android (ASTC)):     [91/1275] LightPropagationVolumeRuntime.init.gen.cpp [arm64]
+[2022.07.01-12.23.14:339][279]UATHelper: Packaging (Android (ASTC)):     [92/1275] Module.ChaosSolverEngine.gen.cpp [armv7]
+[2022.07.01-12.23.14:674][280]UATHelper: Packaging (Android (ASTC)):     [93/1275] Module.Slate.2_of_5.cpp [armv7]
+[2022.07.01-12.23.14:674][280]UATHelper: Packaging (Android (ASTC)):     [94/1275] Module.FieldSystemEngine.cpp [armv7]
+[2022.07.01-12.23.15:010][281]UATHelper: Packaging (Android (ASTC)):     [95/1275] Module.NiagaraShader.cpp [arm64]
+[2022.07.01-12.23.19:695][295]UATHelper: Packaging (Android (ASTC)):     [96/1275] Module.GooglePAD.gen.cpp [armv7]
+[2022.07.01-12.23.20:029][296]UATHelper: Packaging (Android (ASTC)):     [97/1275] Module.ProfilerService.cpp [armv7]
+[2022.07.01-12.23.20:363][297]UATHelper: Packaging (Android (ASTC)):     [98/1275] Module.GameplayCameras.cpp [arm64]
+[2022.07.01-12.23.21:031][299]UATHelper: Packaging (Android (ASTC)):     [99/1275] Module.InteractiveToolsFramework.gen.3_of_3.cpp [armv7]
+[2022.07.01-12.23.21:032][299]UATHelper: Packaging (Android (ASTC)):     [100/1275] Module.Renderer.7_of_17.cpp [armv7]
+[2022.07.01-12.23.22:034][302]UATHelper: Packaging (Android (ASTC)):     [101/1275] Module.MRMesh.cpp [arm64]
+[2022.07.01-12.23.22:703][304]UATHelper: Packaging (Android (ASTC)):     [102/1275] Module.UMG.gen.6_of_10.cpp [arm64]
+[2022.07.01-12.23.24:040][308]UATHelper: Packaging (Android (ASTC)):     [103/1275] Module.ActorSequence.gen.cpp [arm64]
+[2022.07.01-12.23.24:040][308]UATHelper: Packaging (Android (ASTC)):     [104/1275] Module.FunctionalTesting.gen.cpp [armv7]
+[2022.07.01-12.23.24:710][310]UATHelper: Packaging (Android (ASTC)):     [105/1275] Module.Chaos.5_of_5.cpp [arm64]
+[2022.07.01-12.23.25:379][312]UATHelper: Packaging (Android (ASTC)):     [106/1275] Module.UMG.gen.5_of_10.cpp [arm64]
+[2022.07.01-12.23.26:380][315]UATHelper: Packaging (Android (ASTC)):     [107/1275] Module.UMG.gen.7_of_10.cpp [arm64]
+[2022.07.01-12.23.27:050][317]UATHelper: Packaging (Android (ASTC)):     [108/1275] Module.AppleImageUtils.cpp [armv7]
+[2022.07.01-12.23.27:384][318]UATHelper: Packaging (Android (ASTC)):     [109/1275] Module.GooglePAD.cpp [armv7]
+[2022.07.01-12.23.28:052][320]UATHelper: Packaging (Android (ASTC)):     [110/1275] Module.AppleImageUtils.gen.cpp [armv7]
+[2022.07.01-12.23.28:053][320]UATHelper: Packaging (Android (ASTC)):     [111/1275] Module.Overlay.gen.cpp [armv7]
+[2022.07.01-12.23.28:053][320]UATHelper: Packaging (Android (ASTC)):     [112/1275] Module.FunctionalTesting.cpp [armv7]
+[2022.07.01-12.23.30:396][327]UATHelper: Packaging (Android (ASTC)):     [113/1275] Module.ChaosCloth.cpp [arm64]
+[2022.07.01-12.23.30:396][327]UATHelper: Packaging (Android (ASTC)):     [114/1275] Module.NonRealtimeAudioRenderer.cpp [armv7]
+[2022.07.01-12.23.31:066][329]UATHelper: Packaging (Android (ASTC)):     [115/1275] Module.AndroidRuntimeSettings.cpp [armv7]
+[2022.07.01-12.23.31:733][331]UATHelper: Packaging (Android (ASTC)):     [116/1275] Module.ChaosSolverEngine.cpp [armv7]
+[2022.07.01-12.23.32:403][333]UATHelper: Packaging (Android (ASTC)):     [117/1275] Module.NiagaraVertexFactories.cpp [arm64]
+[2022.07.01-12.23.33:071][335]UATHelper: Packaging (Android (ASTC)):     [118/1275] Module.ArchVisCharacter.gen.cpp [armv7]
+[2022.07.01-12.23.34:075][338]UATHelper: Packaging (Android (ASTC)):     [119/1275] Module.ActorSequence.cpp [arm64]
+[2022.07.01-12.23.35:078][341]UATHelper: Packaging (Android (ASTC)):     [120/1275] v_compute.cc [arm64]
+[2022.07.01-12.23.35:748][343]UATHelper: Packaging (Android (ASTC)):     [121/1275] Module.ArchVisCharacter.cpp [armv7]
+[2022.07.01-12.23.35:748][343]UATHelper: Packaging (Android (ASTC)):     [122/1275] Module.ChaosCloth.gen.cpp [arm64]
+[2022.07.01-12.23.38:091][350]UATHelper: Packaging (Android (ASTC)):     [123/1275] Module.GeometryCacheTracks.cpp [arm64]
+[2022.07.01-12.23.39:093][353]UATHelper: Packaging (Android (ASTC)):     [124/1275] Module.UMG.gen.4_of_10.cpp [arm64]
+[2022.07.01-12.23.39:094][353]UATHelper: Packaging (Android (ASTC)):     [125/1275] Module.FieldSystemEngine.gen.cpp [armv7]
+[2022.07.01-12.23.39:427][354]UATHelper: Packaging (Android (ASTC)):     [126/1275] wall.cc [arm64]
+[2022.07.01-12.23.40:096][356]UATHelper: Packaging (Android (ASTC)):     [127/1275] Module.CableComponent.cpp [arm64]
+[2022.07.01-12.23.40:096][356]UATHelper: Packaging (Android (ASTC)):     [128/1275] Module.NiagaraCore.cpp [armv7]
+[2022.07.01-12.23.42:771][364]UATHelper: Packaging (Android (ASTC)):     [129/1275] Module.PicoXRMRC.gen.cpp [arm64]
+[2022.07.01-12.23.43:106][365]UATHelper: Packaging (Android (ASTC)):     [130/1275] Module.AudioCapture.gen.cpp [arm64]
+[2022.07.01-12.23.43:106][365]UATHelper: Packaging (Android (ASTC)):     [131/1275] Module.AudioCapture.cpp [arm64]
+[2022.07.01-12.23.44:444][369]UATHelper: Packaging (Android (ASTC)):     [132/1275] Module.MediaCompositing.gen.cpp [armv7]
+[2022.07.01-12.23.44:445][369]UATHelper: Packaging (Android (ASTC)):     [133/1275] UnrealEdMessagesModule.cpp [armv7]
+[2022.07.01-12.23.45:116][371]UATHelper: Packaging (Android (ASTC)):     [134/1275] Module.ChaosNiagara.gen.cpp [armv7]
+[2022.07.01-12.23.46:120][374]UATHelper: Packaging (Android (ASTC)):     [135/1275] Module.AndroidPermission.gen.cpp [arm64]
+[2022.07.01-12.23.46:454][375]UATHelper: Packaging (Android (ASTC)):     [136/1275] Module.UMG.gen.4_of_10.cpp [armv7]
+[2022.07.01-12.23.47:798][379]UATHelper: Packaging (Android (ASTC)):     [137/1275] Module.AndroidPermission.cpp [arm64]
+[2022.07.01-12.23.49:470][384]UATHelper: Packaging (Android (ASTC)):     [138/1275] Module.AIModule.gen.1_of_7.cpp [arm64]
+[2022.07.01-12.23.50:473][387]UATHelper: Packaging (Android (ASTC)):     [139/1275] Module.SlateNullRenderer.cpp [armv7]
+[2022.07.01-12.23.52:149][392]UATHelper: Packaging (Android (ASTC)):     [140/1275] Module.AIModule.gen.2_of_7.cpp [arm64]
+[2022.07.01-12.23.52:819][394]UATHelper: Packaging (Android (ASTC)):     [141/1275] Module.AIModule.gen.7_of_7.cpp [armv7]
+[2022.07.01-12.23.54:158][398]UATHelper: Packaging (Android (ASTC)):     [142/1275] unitcell.cc [arm64]
+[2022.07.01-12.23.54:827][400]UATHelper: Packaging (Android (ASTC)):     [143/1275] Module.NiagaraCore.gen.cpp [armv7]
+[2022.07.01-12.23.57:168][407]UATHelper: Packaging (Android (ASTC)):     [144/1275] Module.Landscape.1_of_4.cpp [armv7]
+[2022.07.01-12.23.57:501][408]UATHelper: Packaging (Android (ASTC)):     [145/1275] Module.Niagara.gen.6_of_9.cpp [arm64]
+[2022.07.01-12.23.59:844][415]UATHelper: Packaging (Android (ASTC)):     [146/1275] Module.ChaosCloth.cpp [armv7]
+[2022.07.01-12.24.00:848][418]UATHelper: Packaging (Android (ASTC)):     [147/1275] Module.PlanarCut.cpp [arm64]
+[2022.07.01-12.24.01:516][420]UATHelper: Packaging (Android (ASTC)):     [148/1275] Module.UMG.gen.5_of_10.cpp [armv7]
+[2022.07.01-12.24.04:859][430]UATHelper: Packaging (Android (ASTC)):     [149/1275] Module.UMG.gen.2_of_10.cpp [armv7]
+[2022.07.01-12.24.05:195][431]UATHelper: Packaging (Android (ASTC)):     [150/1275] Module.ChaosNiagara.cpp [armv7]
+[2022.07.01-12.24.06:531][435]UATHelper: Packaging (Android (ASTC)):     [151/1275] Module.Landscape.2_of_4.cpp [armv7]
+[2022.07.01-12.24.07:201][437]UATHelper: Packaging (Android (ASTC)):     [152/1275] Module.ProceduralMeshComponent.cpp [arm64]
+[2022.07.01-12.24.08:202][440]UATHelper: Packaging (Android (ASTC)):     [153/1275] Module.BuildPatchServices.gen.cpp [armv7]
+[2022.07.01-12.24.08:538][441]UATHelper: Packaging (Android (ASTC)):     [154/1275] Module.AIModule.4_of_4.cpp [arm64]
+[2022.07.01-12.24.09:874][445]UATHelper: Packaging (Android (ASTC)):     [155/1275] Module.OnlineSubsystemGooglePlay.cpp [arm64]
+[2022.07.01-12.24.10:879][448]UATHelper: Packaging (Android (ASTC)):     [156/1275] IPlatformFileSandboxWrapper.cpp [arm64]
+[2022.07.01-12.24.11:880][451]UATHelper: Packaging (Android (ASTC)):     [157/1275] Module.MoviePlayer.gen.cpp [armv7]
+[2022.07.01-12.24.13:218][455]UATHelper: Packaging (Android (ASTC)):     [158/1275] PythonScriptPluginPreload.cpp [armv7]
+[2022.07.01-12.24.13:219][455]UATHelper: Packaging (Android (ASTC)):     [159/1275] Module.MovieSceneTracks.gen.2_of_4.cpp [arm64]
+[2022.07.01-12.24.13:554][456]UATHelper: Packaging (Android (ASTC)):     [160/1275] Module.NiagaraVertexFactories.cpp [armv7]
+[2022.07.01-12.24.15:227][461]UATHelper: Packaging (Android (ASTC)):     [161/1275] container_prd.cc [armv7]
+[2022.07.01-12.24.15:227][461]UATHelper: Packaging (Android (ASTC)):     [162/1275] Module.MoviePlayer.cpp [armv7]
+[2022.07.01-12.24.15:563][462]UATHelper: Packaging (Android (ASTC)):     [163/1275] Module.MovieSceneTracks.gen.3_of_4.cpp [arm64]
+[2022.07.01-12.24.15:898][463]UATHelper: Packaging (Android (ASTC)):     [164/1275] ImageCore.cpp [arm64]
+[2022.07.01-12.24.16:910][466]UATHelper: Packaging (Android (ASTC)):     [165/1275] c_loops.cc [arm64]
+[2022.07.01-12.24.16:911][466]UATHelper: Packaging (Android (ASTC)):     [166/1275] pre_container.cc [arm64]
+[2022.07.01-12.24.17:572][468]UATHelper: Packaging (Android (ASTC)):     [167/1275] Module.UMG.gen.3_of_10.cpp [armv7]
+[2022.07.01-12.24.18:581][471]UATHelper: Packaging (Android (ASTC)):     [168/1275] Module.Renderer.6_of_17.cpp [armv7]
+[2022.07.01-12.24.20:921][478]UATHelper: Packaging (Android (ASTC)):     [169/1275] Module.PhysicsCore.cpp [arm64]
+[2022.07.01-12.24.21:257][479]UATHelper: Packaging (Android (ASTC)):     [170/1275] ImageCore.cpp [armv7]
+[2022.07.01-12.24.22:592][483]UATHelper: Packaging (Android (ASTC)):     [171/1275] StreamingPauseRendering.cpp [armv7]
+[2022.07.01-12.24.24:603][489]UATHelper: Packaging (Android (ASTC)):     [172/1275] Module.Niagara.gen.4_of_9.cpp [arm64]
+[2022.07.01-12.24.24:937][490]UATHelper: Packaging (Android (ASTC)):     [173/1275] CharacterAIModule.cpp [armv7]
+[2022.07.01-12.24.25:272][491]UATHelper: Packaging (Android (ASTC)):     [174/1275] AssetEditorMessages.gen.cpp [armv7]
+[2022.07.01-12.24.25:940][493]UATHelper: Packaging (Android (ASTC)):     [175/1275] Module.GeometryAlgorithms.cpp [arm64]
+[2022.07.01-12.24.26:605][495]UATHelper: Packaging (Android (ASTC)):     [176/1275] Module.Niagara.gen.5_of_9.cpp [arm64]
+[2022.07.01-12.24.26:605][495]UATHelper: Packaging (Android (ASTC)):     [177/1275] Module.MotoSynth.gen.cpp [armv7]
+[2022.07.01-12.24.27:943][499]UATHelper: Packaging (Android (ASTC)):     [178/1275] Module.BackChannel.cpp [arm64]
+[2022.07.01-12.24.28:280][500]UATHelper: Packaging (Android (ASTC)):     [179/1275] Module.MotoSynth.cpp [armv7]
+[2022.07.01-12.24.29:955][505]UATHelper: Packaging (Android (ASTC)):     [180/1275] Module.CustomMeshComponent.cpp [armv7]
+[2022.07.01-12.24.32:962][514]UATHelper: Packaging (Android (ASTC)):     [181/1275] Module.MediaCompositing.cpp [armv7]
+[2022.07.01-12.24.33:630][516]UATHelper: Packaging (Android (ASTC)):     [182/1275] Module.GeometryCollectionTracks.gen.cpp [armv7]
+[2022.07.01-12.24.34:300][518]UATHelper: Packaging (Android (ASTC)):     [183/1275] NetCommonModule.cpp [armv7]
+[2022.07.01-12.24.35:304][521]UATHelper: Packaging (Android (ASTC)):     [184/1275] ActorLayerUtilities.cpp [armv7]
+[2022.07.01-12.24.35:974][523]UATHelper: Packaging (Android (ASTC)):     [185/1275] Module.UMG.gen.6_of_10.cpp [armv7]
+[2022.07.01-12.24.36:976][526]UATHelper: Packaging (Android (ASTC)):     [186/1275] Module.CableComponent.gen.cpp [armv7]
+[2022.07.01-12.24.37:311][527]UATHelper: Packaging (Android (ASTC)):     [187/1275] NullNetworkReplayStreaming.cpp [armv7]
+[2022.07.01-12.24.37:647][528]UATHelper: Packaging (Android (ASTC)):     [188/1275] Module.UMG.gen.8_of_10.cpp [armv7]
+[2022.07.01-12.24.37:647][528]UATHelper: Packaging (Android (ASTC)):     [189/1275] Module.AIModule.gen.5_of_7.cpp [arm64]
+[2022.07.01-12.24.38:649][531]UATHelper: Packaging (Android (ASTC)):     [190/1275] Module.UdpMessaging.gen.cpp [armv7]
+[2022.07.01-12.24.39:652][534]UATHelper: Packaging (Android (ASTC)):     [191/1275] PlatformCryptoTypes.cpp [armv7]
+[2022.07.01-12.24.40:652][537]UATHelper: Packaging (Android (ASTC)):     [192/1275] Module.UdpMessaging.cpp [armv7]
+[2022.07.01-12.24.41:658][540]UATHelper: Packaging (Android (ASTC)):     [193/1275] Advertising.cpp [armv7]
+[2022.07.01-12.24.43:334][545]UATHelper: Packaging (Android (ASTC)):     [194/1275] HttpNetworkReplayStreaming.cpp [armv7]
+[2022.07.01-12.24.44:004][547]UATHelper: Packaging (Android (ASTC)):     [195/1275] Module.AIModule.3_of_4.cpp [arm64]
+[2022.07.01-12.24.44:341][548]UATHelper: Packaging (Android (ASTC)):     [196/1275] Module.AndroidRuntimeSettings.gen.cpp [armv7]
+[2022.07.01-12.24.44:341][548]UATHelper: Packaging (Android (ASTC)):     [197/1275] Module.Sockets.cpp [armv7]
+[2022.07.01-12.24.44:674][549]UATHelper: Packaging (Android (ASTC)):     [198/1275] Module.ChunkDownloader.cpp [armv7]
+[2022.07.01-12.24.44:674][549]UATHelper: Packaging (Android (ASTC)):     [199/1275] ActorLayerUtilities.gen.cpp [armv7]
+[2022.07.01-12.24.45:343][551]UATHelper: Packaging (Android (ASTC)):     [200/1275] Module.Niagara.gen.9_of_9.cpp [arm64]
+[2022.07.01-12.24.46:012][553]UATHelper: Packaging (Android (ASTC)):     [201/1275] wall.cc [armv7]
+[2022.07.01-12.24.47:350][557]UATHelper: Packaging (Android (ASTC)):     [202/1275] UnrealEdMessages.init.gen.cpp [armv7]
+[2022.07.01-12.24.48:354][560]UATHelper: Packaging (Android (ASTC)):     [203/1275] Module.DynamicMesh.1_of_3.cpp [arm64]
+[2022.07.01-12.24.48:690][561]UATHelper: Packaging (Android (ASTC)):     [204/1275] Module.AIModule.gen.6_of_7.cpp [arm64]
+[2022.07.01-12.24.50:028][565]UATHelper: Packaging (Android (ASTC)):     [205/1275] Module.SSL.cpp [armv7]
+[2022.07.01-12.24.51:032][568]UATHelper: Packaging (Android (ASTC)):     [206/1275] Module.NiagaraAnimNotifies.cpp [arm64]
+[2022.07.01-12.24.52:372][572]UATHelper: Packaging (Android (ASTC)):     [207/1275] LocalFileNetworkReplayStreaming.cpp [armv7]
+[2022.07.01-12.24.54:051][577]UATHelper: Packaging (Android (ASTC)):     [208/1275] Module.ActorSequence.cpp [armv7]
+[2022.07.01-12.24.54:721][579]UATHelper: Packaging (Android (ASTC)):     [209/1275] Module.AIModule.gen.7_of_7.cpp [arm64]
+[2022.07.01-12.24.55:391][581]UATHelper: Packaging (Android (ASTC)):     [210/1275] Module.HTTP.cpp [armv7]
+[2022.07.01-12.24.55:727][582]UATHelper: Packaging (Android (ASTC)):     [211/1275] Module.AutomationUtils.gen.cpp [arm64]
+[2022.07.01-12.24.56:394][584]UATHelper: Packaging (Android (ASTC)):     [212/1275] Module.Renderer.12_of_17.cpp [arm64]
+[2022.07.01-12.24.56:728][585]UATHelper: Packaging (Android (ASTC)):     [213/1275] Module.ProceduralMeshComponent.gen.cpp [arm64]
+[2022.07.01-12.24.57:737][588]UATHelper: Packaging (Android (ASTC)):     [214/1275] Module.BuildPatchServices.3_of_3.cpp [armv7]
+[2022.07.01-12.24.58:740][591]UATHelper: Packaging (Android (ASTC)):     [215/1275] Module.ChaosCloth.gen.cpp [armv7]
+[2022.07.01-12.24.59:742][594]UATHelper: Packaging (Android (ASTC)):     [216/1275] Module.Foliage.cpp [armv7]
+[2022.07.01-12.25.01:085][598]UATHelper: Packaging (Android (ASTC)):     [217/1275] PlatformCrypto.cpp [armv7]
+[2022.07.01-12.25.01:417][599]UATHelper: Packaging (Android (ASTC)):     [218/1275] Module.Json.cpp [arm64]
+[2022.07.01-12.25.02:754][603]UATHelper: Packaging (Android (ASTC)):     [219/1275] Module.Paper2D.cpp [arm64]
+[2022.07.01-12.25.04:095][607]UATHelper: Packaging (Android (ASTC)):     [220/1275] Module.Niagara.gen.7_of_9.cpp [arm64]
+[2022.07.01-12.25.04:095][607]UATHelper: Packaging (Android (ASTC)):     [221/1275] Module.PacketHandler.gen.cpp [arm64]
+[2022.07.01-12.25.05:097][610]UATHelper: Packaging (Android (ASTC)):     [222/1275] AndroidLocalNotification.cpp [armv7]
+[2022.07.01-12.25.05:765][612]UATHelper: Packaging (Android (ASTC)):     [223/1275] Module.Foliage.gen.cpp [armv7]
+[2022.07.01-12.25.06:101][613]UATHelper: Packaging (Android (ASTC)):     [224/1275] AndroidLocalNotification.cpp [arm64]
+[2022.07.01-12.25.06:436][614]UATHelper: Packaging (Android (ASTC)):     [225/1275] Analytics.cpp [armv7]
+[2022.07.01-12.25.07:440][617]UATHelper: Packaging (Android (ASTC)):     [226/1275] Module.MovieSceneTracks.gen.4_of_4.cpp [arm64]
+[2022.07.01-12.25.10:117][625]UATHelper: Packaging (Android (ASTC)):     [227/1275] FileServerMessages.gen.cpp [armv7]
+[2022.07.01-12.25.10:452][626]UATHelper: Packaging (Android (ASTC)):     [228/1275] Module.TcpMessaging.cpp [armv7]
+[2022.07.01-12.25.12:122][631]UATHelper: Packaging (Android (ASTC)):     [229/1275] Module.Projects.cpp [arm64]
+[2022.07.01-12.25.12:457][632]UATHelper: Packaging (Android (ASTC)):     [230/1275] Module.AndroidPermission.gen.cpp [armv7]
+[2022.07.01-12.25.13:124][634]UATHelper: Packaging (Android (ASTC)):     [231/1275] Module.AIModule.gen.3_of_7.cpp [arm64]
+[2022.07.01-12.25.15:469][641]UATHelper: Packaging (Android (ASTC)):     [232/1275] Module.TcpMessaging.gen.cpp [armv7]
+[2022.07.01-12.25.15:802][642]UATHelper: Packaging (Android (ASTC)):     [233/1275] Module.AIModule.gen.4_of_7.cpp [arm64]
+[2022.07.01-12.25.16:137][643]UATHelper: Packaging (Android (ASTC)):     [234/1275] Module.Niagara.gen.8_of_9.cpp [arm64]
+[2022.07.01-12.25.22:493][662]UATHelper: Packaging (Android (ASTC)):     [235/1275] CharacterAIModule.cpp [arm64]
+[2022.07.01-12.25.24:496][668]UATHelper: Packaging (Android (ASTC)):     [236/1275] Module.PlanarCut.cpp [armv7]
+[2022.07.01-12.25.24:831][669]UATHelper: Packaging (Android (ASTC)):     [237/1275] Module.UMG.gen.7_of_10.cpp [armv7]
+[2022.07.01-12.25.26:170][673]UATHelper: Packaging (Android (ASTC)):     [238/1275] Module.GeometricObjects.cpp [armv7]
+[2022.07.01-12.25.26:170][673]UATHelper: Packaging (Android (ASTC)):     [239/1275] Module.ClothSysRuntimeIntrfc.cpp [armv7]
+[2022.07.01-12.25.27:176][676]UATHelper: Packaging (Android (ASTC)):     [240/1275] Module.AudioPlatformConfiguration.gen.cpp [arm64]
+[2022.07.01-12.25.27:848][678]UATHelper: Packaging (Android (ASTC)):     [241/1275] Module.SlateRHIRenderer.cpp [arm64]
+[2022.07.01-12.25.28:182][679]UATHelper: Packaging (Android (ASTC)):     [242/1275] Module.AudioExtensions.cpp [arm64]
+[2022.07.01-12.25.29:528][683]UATHelper: Packaging (Android (ASTC)):     [243/1275] Module.PropertyAccess.gen.cpp [armv7]
+[2022.07.01-12.25.30:530][686]UATHelper: Packaging (Android (ASTC)):     [244/1275] Module.GeometryCollectionEngine.cpp [arm64]
+[2022.07.01-12.25.36:553][704]UATHelper: Packaging (Android (ASTC)):     [245/1275] Module.GameplayTags.gen.cpp [armv7]
+[2022.07.01-12.25.38:895][711]UATHelper: Packaging (Android (ASTC)):     [246/1275] Module.OnlineSubsystemNull.cpp [armv7]
+[2022.07.01-12.25.39:901][714]UATHelper: Packaging (Android (ASTC)):     [247/1275] Module.AudioExtensions.gen.cpp [arm64]
+[2022.07.01-12.25.39:901][714]UATHelper: Packaging (Android (ASTC)):     [248/1275] Module.HeadMountedDisplay.gen.cpp [armv7]
+[2022.07.01-12.25.40:905][717]UATHelper: Packaging (Android (ASTC)):     [249/1275] Module.Chaos.2_of_5.cpp [arm64]
+[2022.07.01-12.25.43:579][725]UATHelper: Packaging (Android (ASTC)):     [250/1275] Module.Cbor.cpp [armv7]
+[2022.07.01-12.25.45:250][730]UATHelper: Packaging (Android (ASTC)):     [251/1275] Module.BuildPatchServices.2_of_3.cpp [armv7]
+[2022.07.01-12.25.45:586][731]UATHelper: Packaging (Android (ASTC)):     [252/1275] Module.MeshUtilitiesCommon.cpp [armv7]
+[2022.07.01-12.25.45:923][732]UATHelper: Packaging (Android (ASTC)):     [253/1275] RawMesh.cpp [armv7]
+[2022.07.01-12.25.46:926][735]UATHelper: Packaging (Android (ASTC)):     [254/1275] Module.EyeTracker.cpp [armv7]
+[2022.07.01-12.25.50:270][745]UATHelper: Packaging (Android (ASTC)):     [255/1275] Module.Renderer.10_of_17.cpp [armv7]
+[2022.07.01-12.25.51:945][750]UATHelper: Packaging (Android (ASTC)):     [256/1275] Module.Niagara.1_of_9.cpp [armv7]
+[2022.07.01-12.25.53:619][755]UATHelper: Packaging (Android (ASTC)):     [257/1275] Module.HeadMountedDisplay.cpp [armv7]
+[2022.07.01-12.25.53:619][755]UATHelper: Packaging (Android (ASTC)):     [258/1275] Module.Chaos.gen.cpp [armv7]
+[2022.07.01-12.25.56:292][763]UATHelper: Packaging (Android (ASTC)):     [259/1275] Module.Chaos.3_of_5.cpp [arm64]
+[2022.07.01-12.25.56:292][763]UATHelper: Packaging (Android (ASTC)):     [260/1275] IPlatformFileSandboxWrapper.cpp [armv7]
+[2022.07.01-12.25.58:639][770]UATHelper: Packaging (Android (ASTC)):     [261/1275] Module.DatasmithContent.gen.cpp [arm64]
+[2022.07.01-12.25.58:640][770]UATHelper: Packaging (Android (ASTC)):     [262/1275] Module.SoundFieldRendering.cpp [arm64]
+[2022.07.01-12.26.05:013][789]UATHelper: Packaging (Android (ASTC)):     [263/1275] Module.SessionServices.cpp [armv7]
+[2022.07.01-12.26.05:347][790]UATHelper: Packaging (Android (ASTC)):     [264/1275] SignificanceManager.init.gen.cpp [arm64]
+[2022.07.01-12.26.06:355][793]UATHelper: Packaging (Android (ASTC)):     [265/1275] Module.Renderer.16_of_17.cpp [armv7]
+[2022.07.01-12.26.08:692][800]UATHelper: Packaging (Android (ASTC)):     [266/1275] Module.Chaos.2_of_5.cpp [armv7]
+[2022.07.01-12.26.08:692][800]UATHelper: Packaging (Android (ASTC)):     [267/1275] Module.AudioMixerCore.cpp [arm64]
+[2022.07.01-12.26.09:361][802]UATHelper: Packaging (Android (ASTC)):     [268/1275] Module.Chaos.4_of_5.cpp [arm64]
+[2022.07.01-12.26.10:362][805]UATHelper: Packaging (Android (ASTC)):     [269/1275] ReliabilityHandlerComponent.cpp [armv7]
+[2022.07.01-12.26.13:040][813]UATHelper: Packaging (Android (ASTC)):     [270/1275] Module.StaticMeshDescription.cpp [armv7]
+[2022.07.01-12.26.17:385][826]UATHelper: Packaging (Android (ASTC)):     [271/1275] Module.RealtimeProfiler.cpp [arm64]
+[2022.07.01-12.26.18:723][830]UATHelper: Packaging (Android (ASTC)):     [272/1275] Module.NonRealtimeAudioRenderer.cpp [arm64]
+[2022.07.01-12.26.20:396][835]UATHelper: Packaging (Android (ASTC)):     [273/1275] Module.VariantManagerContent.cpp [arm64]
+[2022.07.01-12.26.21:407][838]UATHelper: Packaging (Android (ASTC)):     [274/1275] Module.TaskGraph.cpp [armv7]
+[2022.07.01-12.26.21:407][838]UATHelper: Packaging (Android (ASTC)):     [275/1275] Module.AudioPlatformConfiguration.cpp [arm64]
+[2022.07.01-12.26.23:087][843]UATHelper: Packaging (Android (ASTC)):     [276/1275] Module.Renderer.15_of_17.cpp [arm64]
+[2022.07.01-12.26.35:505][880]UATHelper: Packaging (Android (ASTC)):     [277/1275] Module.AndroidAudio.cpp [arm64]
+[2022.07.01-12.26.35:505][880]UATHelper: Packaging (Android (ASTC)):     [278/1275] Module.AudioMixerAndroid.cpp [arm64]
+[2022.07.01-12.26.42:221][900]UATHelper: Packaging (Android (ASTC)):     [279/1275] InputDeviceModule.cpp [armv7]
+[2022.07.01-12.26.42:555][901]UATHelper: Packaging (Android (ASTC)):     [280/1275] Module.SlateCore.gen.cpp [arm64]
+[2022.07.01-12.26.42:888][902]UATHelper: Packaging (Android (ASTC)):     [281/1275] Module.SlateCore.3_of_3.cpp [arm64]
+[2022.07.01-12.26.42:888][902]UATHelper: Packaging (Android (ASTC)):     [282/1275] Module.ImgMediaEngine.cpp [arm64]
+[2022.07.01-12.26.43:221][903]UATHelper: Packaging (Android (ASTC)):     [283/1275] Module.Renderer.4_of_17.cpp [armv7]
+[2022.07.01-12.26.43:221][903]UATHelper: Packaging (Android (ASTC)):     [284/1275] Module.Chaos.5_of_5.cpp [armv7]
+[2022.07.01-12.26.43:893][905]UATHelper: Packaging (Android (ASTC)):     [285/1275] Module.UMG.cpp [arm64]
+[2022.07.01-12.26.44:226][906]UATHelper: Packaging (Android (ASTC)):     [286/1275] MessagingCommonModule.cpp [armv7]
+[2022.07.01-12.26.44:560][907]UATHelper: Packaging (Android (ASTC)):     [287/1275] Module.Renderer.11_of_17.cpp [armv7]
+[2022.07.01-12.26.44:560][907]UATHelper: Packaging (Android (ASTC)):     [288/1275] SessionMessagesModule.cpp [arm64]
+[2022.07.01-12.26.45:230][909]UATHelper: Packaging (Android (ASTC)):     [289/1275] Module.Renderer.12_of_17.cpp [armv7]
+[2022.07.01-12.26.46:232][912]UATHelper: Packaging (Android (ASTC)):     [290/1275] SessionMessages.init.gen.cpp [arm64]
+[2022.07.01-12.26.47:240][915]UATHelper: Packaging (Android (ASTC)):     [291/1275] SessionServiceMessages.gen.cpp [arm64]
+[2022.07.01-12.26.47:573][916]UATHelper: Packaging (Android (ASTC)):     [292/1275] EngineMessagesModule.cpp [armv7]
+[2022.07.01-12.26.48:907][920]UATHelper: Packaging (Android (ASTC)):     [293/1275] Module.MeshDescription.gen.cpp [armv7]
+[2022.07.01-12.26.51:252][927]UATHelper: Packaging (Android (ASTC)):     [294/1275] Module.SessionServices.cpp [arm64]
+[2022.07.01-12.26.53:925][935]UATHelper: Packaging (Android (ASTC)):     [295/1275] SignificanceManager.cpp [arm64]
+[2022.07.01-12.26.54:260][936]UATHelper: Packaging (Android (ASTC)):     [296/1275] SignificanceManager.gen.cpp [arm64]
+[2022.07.01-12.26.54:928][938]UATHelper: Packaging (Android (ASTC)):     [297/1275] Module.StaticMeshDescription.gen.cpp [armv7]
+[2022.07.01-12.26.54:928][938]UATHelper: Packaging (Android (ASTC)):     [298/1275] Module.PhysicsCore.gen.cpp [armv7]
+[2022.07.01-12.26.55:929][941]UATHelper: Packaging (Android (ASTC)):     [299/1275] EngineMessages.init.gen.cpp [armv7]
+[2022.07.01-12.26.56:928][944]UATHelper: Packaging (Android (ASTC)):     [300/1275] Module.Renderer.5_of_17.cpp [arm64]
+[2022.07.01-12.27.07:629][976]UATHelper: Packaging (Android (ASTC)):     [301/1275] Module.AndroidRuntimeSettings.cpp [arm64]
+[2022.07.01-12.27.15:111][998]UATHelper: Packaging (Android (ASTC)):     [302/1275] Module.Slate.gen.cpp [arm64]
+[2022.07.01-12.27.15:111][998]UATHelper: Packaging (Android (ASTC)):     [303/1275] Module.MRMesh.gen.cpp [armv7]
+[2022.07.01-12.27.15:111][998]UATHelper: Packaging (Android (ASTC)):     [304/1275] Module.MeshDescription.cpp [armv7]
+[2022.07.01-12.27.15:491][999]UATHelper: Packaging (Android (ASTC)):     [305/1275] Module.TaskGraph.cpp [arm64]
+[2022.07.01-12.27.16:116][  1]UATHelper: Packaging (Android (ASTC)):     [306/1275] Module.Renderer.10_of_17.cpp [arm64]
+[2022.07.01-12.27.16:451][  2]UATHelper: Packaging (Android (ASTC)):     [307/1275] Module.Chaos.3_of_5.cpp [armv7]
+[2022.07.01-12.27.16:451][  2]UATHelper: Packaging (Android (ASTC)):     [308/1275] Module.Renderer.16_of_17.cpp [arm64]
+[2022.07.01-12.27.16:785][  3]UATHelper: Packaging (Android (ASTC)):     [309/1275] Module.Renderer.4_of_17.cpp [arm64]
+[2022.07.01-12.27.17:121][  4]UATHelper: Packaging (Android (ASTC)):     [310/1275] ProfilerMessages.init.gen.cpp [armv7]
+[2022.07.01-12.27.18:124][  7]UATHelper: Packaging (Android (ASTC)):     [311/1275] ProfilerMessages.init.gen.cpp [arm64]
+[2022.07.01-12.27.19:126][ 10]UATHelper: Packaging (Android (ASTC)):     [312/1275] Module.NetCore.gen.cpp [arm64]
+[2022.07.01-12.27.20:131][ 13]UATHelper: Packaging (Android (ASTC)):     [313/1275] ProfilerServiceMessages.gen.cpp [arm64]
+[2022.07.01-12.27.20:464][ 14]UATHelper: Packaging (Android (ASTC)):     [314/1275] NetworkReplayStreaming.cpp [armv7]
+[2022.07.01-12.27.27:554][ 33]UATHelper: Packaging (Android (ASTC)):     [315/1275] Module.ImgMediaFactory.gen.cpp [arm64]
+[2022.07.01-12.27.28:632][ 37]UATHelper: Packaging (Android (ASTC)):     [316/1275] Module.ImgMediaFactory.cpp [arm64]
+[2022.07.01-12.27.28:910][ 38]UATHelper: Packaging (Android (ASTC)):     [317/1275] Module.FacialAnimation.gen.cpp [arm64]
+[2022.07.01-12.27.32:632][ 49]UATHelper: Packaging (Android (ASTC)):     [318/1275] Module.SynthBenchmark.cpp [armv7]
+[2022.07.01-12.27.32:941][ 50]UATHelper: Packaging (Android (ASTC)):     [319/1275] Module.ProfilerService.cpp [arm64]
+[2022.07.01-12.27.32:942][ 50]UATHelper: Packaging (Android (ASTC)):     [320/1275] Module.DatasmithContent.cpp [arm64]
+[2022.07.01-12.27.33:277][ 51]UATHelper: Packaging (Android (ASTC)):     [321/1275] Module.PakFile.cpp [armv7]
+[2022.07.01-12.27.33:946][ 53]UATHelper: Packaging (Android (ASTC)):     [322/1275] Module.Renderer.9_of_17.cpp [armv7]
+[2022.07.01-12.27.34:281][ 54]UATHelper: Packaging (Android (ASTC)):     [323/1275] Module.AudioMixer.cpp [arm64]
+[2022.07.01-12.27.35:285][ 57]UATHelper: Packaging (Android (ASTC)):     [324/1275] Module.AugmentedReality.cpp [armv7]
+[2022.07.01-12.27.37:625][ 64]UATHelper: Packaging (Android (ASTC)):     [325/1275] Module.PropertyAccess.cpp [armv7]
+[2022.07.01-12.27.46:001][ 89]UATHelper: Packaging (Android (ASTC)):     [326/1275] Module.Renderer.17_of_17.cpp [arm64]
+[2022.07.01-12.27.46:335][ 90]UATHelper: Packaging (Android (ASTC)):     [327/1275] Module.Slate.5_of_5.cpp [arm64]
+[2022.07.01-12.27.48:162][ 95]UATHelper: Packaging (Android (ASTC)):     [328/1275] RSA.cpp [armv7]
+[2022.07.01-12.27.48:594][ 96]UATHelper: Packaging (Android (ASTC)):     [329/1275] Module.UObjectPlugin.cpp [arm64]
+[2022.07.01-12.27.49:213][ 98]UATHelper: Packaging (Android (ASTC)):     [330/1275] CrunchCompression.cpp [arm64]
+[2022.07.01-12.27.49:886][100]UATHelper: Packaging (Android (ASTC)):     [331/1275] Module.GameplayTags.cpp [armv7]
+[2022.07.01-12.27.59:938][121]UATHelper: Packaging (Android (ASTC)):     [332/1275] Module.EyeTracker.gen.cpp [armv7]
+[2022.07.01-12.27.59:938][121]UATHelper: Packaging (Android (ASTC)):     [333/1275] Module.ImgMediaEngine.gen.cpp [arm64]
+[2022.07.01-12.28.00:941][124]UATHelper: Packaging (Android (ASTC)):     [334/1275] Module.Renderer.11_of_17.cpp [arm64]
+[2022.07.01-12.28.02:277][128]UATHelper: Packaging (Android (ASTC)):     [335/1275] ProfilerMessagesModule.cpp [arm64]
+[2022.07.01-12.28.05:281][136]UATHelper: Packaging (Android (ASTC)):     [336/1275] EngineServiceMessages.gen.cpp [armv7]
+[2022.07.01-12.28.05:713][137]UATHelper: Packaging (Android (ASTC)):     [337/1275] ProfilerServiceMessages.gen.cpp [armv7]
+[2022.07.01-12.28.10:679][152]UATHelper: Packaging (Android (ASTC)):     [338/1275] Module.Settings.cpp [arm64]
+[2022.07.01-12.28.14:316][163]UATHelper: Packaging (Android (ASTC)):     [339/1275] Module.Renderer.15_of_17.cpp [armv7]
+[2022.07.01-12.28.15:018][165]UATHelper: Packaging (Android (ASTC)):     [340/1275] Module.Slate.3_of_5.cpp [arm64]
+[2022.07.01-12.28.16:331][169]UATHelper: Packaging (Android (ASTC)):     [341/1275] Module.Slate.2_of_5.cpp [arm64]
+[2022.07.01-12.28.16:989][171]UATHelper: Packaging (Android (ASTC)):     [342/1275] Module.Renderer.9_of_17.cpp [arm64]
+[2022.07.01-12.28.16:989][171]UATHelper: Packaging (Android (ASTC)):     [343/1275] Module.Chaos.4_of_5.cpp [armv7]
+[2022.07.01-12.28.17:656][173]UATHelper: Packaging (Android (ASTC)):     [344/1275] Module.Renderer.3_of_17.cpp [armv7]
+[2022.07.01-12.28.19:665][179]UATHelper: Packaging (Android (ASTC)):     [345/1275] Module.Renderer.13_of_17.cpp [arm64]
+[2022.07.01-12.28.19:665][179]UATHelper: Packaging (Android (ASTC)):     [346/1275] Module.Slate.4_of_5.cpp [arm64]
+[2022.07.01-12.28.19:665][179]UATHelper: Packaging (Android (ASTC)):     [347/1275] Module.UObjectPlugin.gen.cpp [arm64]
+[2022.07.01-12.28.20:337][181]UATHelper: Packaging (Android (ASTC)):     [348/1275] Module.Messaging.cpp [armv7]
+[2022.07.01-12.28.20:673][182]UATHelper: Packaging (Android (ASTC)):     [349/1275] ProfilerMessagesModule.cpp [armv7]
+[2022.07.01-12.28.21:342][184]UATHelper: Packaging (Android (ASTC)):     [350/1275] MessagingCommonModule.cpp [arm64]
+[2022.07.01-12.28.22:008][186]UATHelper: Packaging (Android (ASTC)):     [351/1275] Module.Renderer.7_of_17.cpp [arm64]
+[2022.07.01-12.28.23:367][190]UATHelper: Packaging (Android (ASTC)):     [352/1275] Module.TcpMessaging.cpp [arm64]
+[2022.07.01-12.28.24:358][193]UATHelper: Packaging (Android (ASTC)):     [353/1275] Module.Chaos.1_of_5.cpp [arm64]
+[2022.07.01-12.28.24:359][193]UATHelper: Packaging (Android (ASTC)):     [354/1275] Module.PhysicsCore.cpp [armv7]
+[2022.07.01-12.28.31:859][215]UATHelper: Packaging (Android (ASTC)):     [355/1275] Module.AudioMixer.gen.cpp [arm64]
+[2022.07.01-12.28.32:051][216]UATHelper: Packaging (Android (ASTC)):     [356/1275] Module.FacialAnimation.cpp [arm64]
+[2022.07.01-12.28.33:051][219]UATHelper: Packaging (Android (ASTC)):     [357/1275] Module.MediaCompositing.gen.cpp [arm64]
+[2022.07.01-12.28.34:721][224]UATHelper: Packaging (Android (ASTC)):     [358/1275] Module.RealtimeProfiler.cpp [armv7]
+[2022.07.01-12.28.34:721][224]UATHelper: Packaging (Android (ASTC)):     [359/1275] Module.MediaCompositing.cpp [arm64]
+[2022.07.01-12.28.35:054][225]UATHelper: Packaging (Android (ASTC)):     [360/1275] SessionServiceMessages.gen.cpp [armv7]
+[2022.07.01-12.28.36:390][229]UATHelper: Packaging (Android (ASTC)):     [361/1275] Module.Renderer.6_of_17.cpp [arm64]
+[2022.07.01-12.28.41:399][244]UATHelper: Packaging (Android (ASTC)):     [362/1275] Module.Slate.1_of_5.cpp [arm64]
+[2022.07.01-12.28.42:400][247]UATHelper: Packaging (Android (ASTC)):     [363/1275] Module.MobilePatchingUtils.gen.cpp [armv7]
+[2022.07.01-12.28.42:401][247]UATHelper: Packaging (Android (ASTC)):     [364/1275] Module.MRMesh.cpp [armv7]
+[2022.07.01-12.28.44:741][254]UATHelper: Packaging (Android (ASTC)):     [365/1275] Module.AugmentedReality.gen.2_of_5.cpp [arm64]
+[2022.07.01-12.28.47:076][261]UATHelper: Packaging (Android (ASTC)):     [366/1275] Module.AugmentedReality.gen.3_of_5.cpp [arm64]
+[2022.07.01-12.28.50:748][272]UATHelper: Packaging (Android (ASTC)):     [367/1275] Module.Renderer.14_of_17.cpp [arm64]
+[2022.07.01-12.28.51:083][273]UATHelper: Packaging (Android (ASTC)):     [368/1275] Module.CinematicCamera.cpp [arm64]
+[2022.07.01-12.28.54:422][283]UATHelper: Packaging (Android (ASTC)):     [369/1275] Module.AugmentedReality.gen.4_of_5.cpp [arm64]
+[2022.07.01-12.28.54:756][284]UATHelper: Packaging (Android (ASTC)):     [370/1275] Module.DesktopPlatform.cpp [armv7]
+[2022.07.01-12.28.55:758][287]UATHelper: Packaging (Android (ASTC)):     [371/1275] Module.InteractiveToolsFramework.gen.1_of_3.cpp [armv7]
+[2022.07.01-12.28.56:094][288]UATHelper: Packaging (Android (ASTC)):     [372/1275] Module.Renderer.14_of_17.cpp [armv7]
+[2022.07.01-12.28.57:095][291]UATHelper: Packaging (Android (ASTC)):     [373/1275] CrunchCompression.cpp [armv7]
+[2022.07.01-12.28.57:428][292]UATHelper: Packaging (Android (ASTC)):     [374/1275] Module.TemplateSequence.cpp [arm64]
+[2022.07.01-12.28.57:763][293]UATHelper: Packaging (Android (ASTC)):     [375/1275] Module.SlateCore.3_of_3.cpp [armv7]
+[2022.07.01-12.28.58:431][295]UATHelper: Packaging (Android (ASTC)):     [376/1275] Module.Renderer.2_of_17.cpp [armv7]
+[2022.07.01-12.28.58:768][296]UATHelper: Packaging (Android (ASTC)):     [377/1275] PlatformCryptoTypes.cpp [arm64]
+[2022.07.01-12.28.59:772][299]UATHelper: Packaging (Android (ASTC)):     [378/1275] Module.Renderer.13_of_17.cpp [armv7]
+[2022.07.01-12.29.00:775][302]UATHelper: Packaging (Android (ASTC)):     [379/1275] Module.TemplateSequence.gen.cpp [arm64]
+[2022.07.01-12.29.01:108][303]UATHelper: Packaging (Android (ASTC)):     [380/1275] Module.AndroidMediaFactory.cpp [arm64]
+[2022.07.01-12.29.01:109][303]UATHelper: Packaging (Android (ASTC)):     [381/1275] Module.PlatformCryptoOpenSSL.cpp [arm64]
+[2022.07.01-12.29.01:776][305]UATHelper: Packaging (Android (ASTC)):     [382/1275] Module.Renderer.1_of_17.cpp [armv7]
+[2022.07.01-12.29.02:111][306]UATHelper: Packaging (Android (ASTC)):     [383/1275] Module.EditorStyle.gen.cpp [armv7]
+[2022.07.01-12.29.03:445][310]UATHelper: Packaging (Android (ASTC)):     [384/1275] Module.Chaos.1_of_5.cpp [armv7]
+[2022.07.01-12.29.03:445][310]UATHelper: Packaging (Android (ASTC)):     [385/1275] Module.MobilePatchingUtils.cpp [armv7]
+[2022.07.01-12.29.03:445][310]UATHelper: Packaging (Android (ASTC)):     [386/1275] Module.AssetTags.cpp [armv7]
+[2022.07.01-12.29.03:782][311]UATHelper: Packaging (Android (ASTC)):     [387/1275] Module.Renderer.8_of_17.cpp [arm64]
+[2022.07.01-12.29.04:446][313]UATHelper: Packaging (Android (ASTC)):     [388/1275] Module.Sockets.cpp [arm64]
+[2022.07.01-12.29.07:117][321]UATHelper: Packaging (Android (ASTC)):     [389/1275] Module.AssetTags.gen.cpp [armv7]
+[2022.07.01-12.29.08:117][324]UATHelper: Packaging (Android (ASTC)):     [390/1275] Module.AugmentedReality.gen.5_of_5.cpp [arm64]
+[2022.07.01-12.29.08:450][325]UATHelper: Packaging (Android (ASTC)):     [391/1275] Module.AndroidMedia.cpp [arm64]
+[2022.07.01-12.29.09:116][327]UATHelper: Packaging (Android (ASTC)):     [392/1275] Module.AudioCapture.cpp [armv7]
+[2022.07.01-12.29.09:784][329]UATHelper: Packaging (Android (ASTC)):     [393/1275] PythonScriptPluginPreload.cpp [arm64]
+[2022.07.01-12.29.10:450][331]UATHelper: Packaging (Android (ASTC)):     [394/1275] Module.Slate.gen.cpp [armv7]
+[2022.07.01-12.29.10:783][332]UATHelper: Packaging (Android (ASTC)):     [395/1275] NetCommonModule.cpp [arm64]
+[2022.07.01-12.29.11:122][333]UATHelper: Packaging (Android (ASTC)):     [396/1275] Module.CinematicCamera.gen.cpp [arm64]
+[2022.07.01-12.29.11:456][334]UATHelper: Packaging (Android (ASTC)):     [397/1275] Module.EditorStyle.cpp [armv7]
+[2022.07.01-12.29.11:457][334]UATHelper: Packaging (Android (ASTC)):     [398/1275] Module.AudioExtensions.gen.cpp [armv7]
+[2022.07.01-12.29.12:794][338]UATHelper: Packaging (Android (ASTC)):     [399/1275] Module.AndroidAudio.cpp [armv7]
+[2022.07.01-12.29.13:130][339]UATHelper: Packaging (Android (ASTC)):     [400/1275] Module.HTTP.cpp [arm64]
+[2022.07.01-12.29.16:137][348]UATHelper: Packaging (Android (ASTC)):     [401/1275] Module.UMG.gen.8_of_10.cpp [arm64]
+[2022.07.01-12.29.16:807][350]UATHelper: Packaging (Android (ASTC)):     [402/1275] Module.Serialization.gen.cpp [armv7]
+[2022.07.01-12.29.16:807][350]UATHelper: Packaging (Android (ASTC)):     [403/1275] Module.MessageLog.cpp [armv7]
+[2022.07.01-12.29.18:477][355]UATHelper: Packaging (Android (ASTC)):     [404/1275] Module.MRMesh.gen.cpp [arm64]
+[2022.07.01-12.29.18:811][356]UATHelper: Packaging (Android (ASTC)):     [405/1275] Module.UdpMessaging.cpp [arm64]
+[2022.07.01-12.29.18:811][356]UATHelper: Packaging (Android (ASTC)):     [406/1275] Module.SoundFieldRendering.cpp [armv7]
+[2022.07.01-12.29.20:154][360]UATHelper: Packaging (Android (ASTC)):     [407/1275] Module.UMG.gen.9_of_10.cpp [arm64]
+[2022.07.01-12.29.22:158][366]UATHelper: Packaging (Android (ASTC)):     [408/1275] Module.AugmentedReality.gen.1_of_5.cpp [arm64]
+[2022.07.01-12.29.23:162][369]UATHelper: Packaging (Android (ASTC)):     [409/1275] Module.AutomationController.gen.cpp [arm64]
+[2022.07.01-12.29.25:166][375]UATHelper: Packaging (Android (ASTC)):     [410/1275] Module.AutomationController.cpp [arm64]
+[2022.07.01-12.29.25:501][376]UATHelper: Packaging (Android (ASTC)):     [411/1275] Module.PhysXVehicles.cpp [armv7]
+[2022.07.01-12.29.25:840][377]UATHelper: Packaging (Android (ASTC)):     [412/1275] Module.LocationServicesBPLibrary.cpp [armv7]
+[2022.07.01-12.29.26:842][380]UATHelper: Packaging (Android (ASTC)):     [413/1275] Module.MotoSynth.cpp [arm64]
+[2022.07.01-12.29.27:178][381]UATHelper: Packaging (Android (ASTC)):     [414/1275] Module.GeometryCache.gen.cpp [arm64]
+[2022.07.01-12.29.27:178][381]UATHelper: Packaging (Android (ASTC)):     [415/1275] PlatformCrypto.cpp [arm64]
+[2022.07.01-12.29.29:517][388]UATHelper: Packaging (Android (ASTC)):     [416/1275] Module.InteractiveToolsFramework.gen.2_of_3.cpp [armv7]
+[2022.07.01-12.29.29:851][389]UATHelper: Packaging (Android (ASTC)):     [417/1275] Module.detex.cpp [armv7]
+[2022.07.01-12.29.29:851][389]UATHelper: Packaging (Android (ASTC)):     [418/1275] Module.AugmentedReality.cpp [arm64]
+[2022.07.01-12.29.30:520][391]UATHelper: Packaging (Android (ASTC)):     [419/1275] Module.MeshDescription.cpp [arm64]
+[2022.07.01-12.29.30:521][391]UATHelper: Packaging (Android (ASTC)):     [420/1275] Module.LocationServicesBPLibrary.gen.cpp [armv7]
+[2022.07.01-12.29.31:525][394]UATHelper: Packaging (Android (ASTC)):     [421/1275] Module.GameplayCameras.gen.cpp [arm64]
+[2022.07.01-12.29.33:529][400]UATHelper: Packaging (Android (ASTC)):     [422/1275] Module.FunctionalTesting.cpp [arm64]

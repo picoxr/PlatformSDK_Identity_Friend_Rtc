@@ -1,0 +1,29 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OnlineSubsystemPico.cpp.obj": [
+			"OnlineFriendsInterfacePico.cpp.obj",
+			"OnlineIdentityPico.cpp.obj",
+			"OnlineMessageTaskManagerPico.cpp.obj",
+			"OnlinePicoFunctionLibrary.cpp.obj",
+			"OnlinePicoSettings.cpp.obj",
+			"OnlinePicoSettingsCustomization.cpp.obj",
+			"OnlineSessionInterfacePico.cpp.obj",
+			"OnlineSubsystemPico.cpp.obj",
+			"OnlineSubsystemPicoManager.cpp.obj",
+			"OnlineSubsystemPicoModule.cpp.obj",
+			"PicoNetConnection.cpp.obj",
+			"PicoNetDriver.cpp.obj",
+			"RTCPicoUserInterface.cpp.obj"
+		],
+		"Module.OnlineSubsystemPico.gen.cpp.obj": [
+			"OnlinePicoFunctionLibrary.gen.cpp.obj",
+			"OnlinePicoSettings.gen.cpp.obj",
+			"OnlineSubsystemPico.init.gen.cpp.obj",
+			"OnlineSubsystemPicoManager.gen.cpp.obj",
+			"PicoNetConnection.gen.cpp.obj",
+			"PicoNetDriver.gen.cpp.obj",
+			"RTCPicoUserInterface.gen.cpp.obj"
+		]
+	}
+}

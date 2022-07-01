@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PicoXRMRC.cpp.obj": [
+			"PXR_MRCCastingCameraActor.cpp.obj",
+			"PXR_MRCFunctionLibrary.cpp.obj",
+			"PXR_MRCModule.cpp.obj",
+			"PXR_MRCState.cpp.obj"
+		],
+		"Module.PicoXRMRC.gen.cpp.obj": [
+			"PicoXRMRC.init.gen.cpp.obj",
+			"PXR_MRCCastingCameraActor.gen.cpp.obj",
+			"PXR_MRCFunctionLibrary.gen.cpp.obj",
+			"PXR_MRCState.gen.cpp.obj"
+		]
+	}
+}

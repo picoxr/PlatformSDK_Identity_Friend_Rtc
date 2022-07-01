@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-PicoXRMRC.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Zero Caliber UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\UE4PlatformSample_IdentifyFriendEtc\UE4PlatformSample_IdentityFriendRtc\Plugins\PicoXR\Intermediate\Build\Win64\UE4Editor\Development\PicoXRMRC\Module.PicoXRMRC.cpp.obj"
+"D:\UE4PlatformSample_IdentifyFriendEtc\UE4PlatformSample_IdentityFriendRtc\Plugins\PicoXR\Intermediate\Build\Win64\UE4Editor\Development\PicoXRMRC\Module.PicoXRMRC.gen.cpp.obj"
+"D:\Zero Caliber UE\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\UE4PlatformSample_IdentifyFriendEtc\UE4PlatformSample_IdentityFriendRtc\Plugins\PicoXR\Intermediate\Build\Win64\UE4Editor\Development\PicoXRMRC\UE4Editor-PicoXRMRC.lib"

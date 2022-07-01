@@ -1,0 +1,32 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PicoXRHMD.cpp.obj": [
+			"PXR_BoundarySystem.cpp.obj",
+			"PXR_EventManager.cpp.obj",
+			"PXR_EyeMaskComponent.cpp.obj",
+			"PXR_EyeTracker.cpp.obj",
+			"PXR_GameFrame.cpp.obj",
+			"PXR_HMD.cpp.obj",
+			"PXR_HMDFunctionLibrary.cpp.obj",
+			"PXR_HMDModule.cpp.obj",
+			"PXR_HMDRenderBridge.cpp.obj",
+			"PXR_HMDSwapChain.cpp.obj",
+			"PXR_Settings.cpp.obj",
+			"PXR_Shaders.cpp.obj",
+			"PXR_Splash.cpp.obj",
+			"PXR_StereoLayer.cpp.obj",
+			"PXR_SystemAPI.cpp.obj"
+		],
+		"Module.PicoXRHMD.gen.cpp.obj": [
+			"PicoXRHMD.init.gen.cpp.obj",
+			"PXR_BoundarySystem.gen.cpp.obj",
+			"PXR_EventManager.gen.cpp.obj",
+			"PXR_EyeMaskComponent.gen.cpp.obj",
+			"PXR_HMDFunctionLibrary.gen.cpp.obj",
+			"PXR_HMDTypes.gen.cpp.obj",
+			"PXR_Settings.gen.cpp.obj",
+			"PXR_SystemAPI.gen.cpp.obj"
+		]
+	}
+}
