@@ -5,7 +5,7 @@
 ## Unreal Engine 4 & SDK Version
 Unreal Engine : 4.27.2
 
-Pico Unreal XR SDK: 2.0.5
+Pico Unreal XR SDK: 2.1.2
 
 Pico Unreal Platform SDK : 1.0
 
