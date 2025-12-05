@@ -1,9 +1,12 @@
-//Unreal® Engine, Copyright 1998 – 2022, Epic Games, Inc. All rights reserved.
+// Copyright PICO Technology Co., Ltd. All rights reserved.
+// This plugin incorporates portions of the Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
+// Copyright Epic Games, Inc. All Rights Reserved.
 
 #pragma once
 
 #include "CoreMinimal.h"
 #include "GameFramework/Actor.h"
+#include "PixelFormat.h"
 #include "PXR_Cubemap.generated.h"
 
 class USceneCaptureComponent2D;
@@ -37,7 +40,7 @@ private:
 	UPROPERTY()
 		TArray<USceneCaptureComponent2D*> CaptureComponents;
 
-	UFUNCTION(BlueprintCallable, CallInEditor)
+	UFUNCTION(BlueprintCallable, CallInEditor, Category = "PXR|PXRHMD")
 		void PXR_CubemapHandler();
 
 };

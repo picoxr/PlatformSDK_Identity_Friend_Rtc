@@ -1,3 +1,5 @@
+// Copyright PICO Technology Co., Ltd. All rights reserved.
+// This plugin incorporates portions of the Unreal® Engine. Unreal® is a trademark or registered trademark of Epic Games, Inc. in the United States of America and elsewhere.
 // Copyright Epic Games, Inc. All Rights Reserved.
 
 #pragma once
@@ -7,7 +9,7 @@ class FDelayDeleteLayerManager
 {
 public:
 	void AddLayerToDeferredDeletionQueue(const FPICOLayerPtr& ptr);
-	void AddPxrLayerToDeferredDeletionQueue(const uint32 layerID);
+	void AddPxrLayerToDeferredDeletionQueue(const uint32 ID, const uint32 layerID);
 	void HandleLayerDeferredDeletionQueue_RenderThread(bool bDeleteImmediately = false);
 
 private:
@@ -20,6 +22,7 @@ private:
 		};
 
 		FPICOLayerPtr Layer;
+		uint32 ID;
 		uint32 PxrLayerId;
 		
 		uint32 FrameEnqueued;

@@ -2,12 +2,12 @@
 
 - If you have any questions/comments, please visit [**Pico Developer Support Portal**](https://picodevsupport.freshdesk.com/support/home) and raise your question there.
 
-## Unreal Engine 4 & SDK Version
-Unreal Engine : 4.27.2
+## Unreal Engine 5 & SDK Version
+Unreal Engine : 5.6.1
 
-Pico Unreal XR SDK: 2.1.2
+Pico Unreal XR SDK: 3.3.2
 
-Pico Unreal Platform SDK : 1.0
+Pico Unreal Platform SDK : 2.4.0
 
 
 ## Description:
@@ -22,5 +22,5 @@ Real-time communications (RTC) technology enables users in the same room to comm
 
 
 ## Note:
-- This project integrates v4.27 of PicoVR Unreal SDK, If you are using other version of the engine, you need to download the corresponding version of PicoVR Unreal SDK at [here.](https://developer.pico-interactive.com/sdk/index?id=5)
+- This project integrates v5.6.1 of PicoVR Unreal SDK, If you are using other version of the engine, you need to download the corresponding version of PicoVR Unreal SDK at [here.](https://developer.pico-interactive.com/sdk/index?id=5)
 - Please note the PicoAppId used in the demo project is only for demo. It cannot be used for official release.

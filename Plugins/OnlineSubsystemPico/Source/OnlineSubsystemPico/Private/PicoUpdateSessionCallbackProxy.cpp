@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// Copyright® 2015-2023 PICO Technology Co., Ltd. All rights reserved. 
 
 #include "PicoUpdateSessionCallbackProxy.h"
 #include "OnlineSubsystemPicoPrivate.h"
@@ -9,6 +9,7 @@
 #endif
 #include "Online.h"
 #include "OnlineSessionInterfacePico.h"
+#include "OnlineSessionSettings.h"
 
 UPicoUpdateSessionCallbackProxy::UPicoUpdateSessionCallbackProxy(const FObjectInitializer& ObjectInitializer)
     : Super(ObjectInitializer)
@@ -33,7 +34,7 @@ void UPicoUpdateSessionCallbackProxy::Activate()
     {
         UpdateCompleteDelegateHandle = PicoSessionInterface->AddOnUpdateSessionCompleteDelegate_Handle(UpdateCompleteDelegate);
 
-        FOnlineSessionSettings Settings;
+        FOnlineSessionSettings Settings = FOnlineSessionSettings{};
         Settings.bShouldAdvertise = bShouldEnqueueInMatchmakingPool;
 #if ENGINE_MAJOR_VERSION > 4
         PicoSessionInterface->UpdateSession(NAME_GameSession, Settings);

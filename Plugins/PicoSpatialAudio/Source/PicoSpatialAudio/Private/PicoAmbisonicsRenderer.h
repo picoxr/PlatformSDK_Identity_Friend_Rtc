@@ -1,8 +1,13 @@
+//  Copyright © 2015-2023 Pico Technology Co., Ltd. All Rights Reserved.
+
 #pragma once
 #include "IAudioExtensionPlugin.h"
 #include "SoundFieldRendering.h"
 #include "PxrAudioSpatializerContextSingleton.h"
 #include "PicoAmbisonicsSettings.h"
+#if ENGINE_MAJOR_VERSION == 5 && ENGINE_MINOR_VERSION >= 5
+#include "DSP/FloatArrayMath.h"
+#endif
 
 namespace Pxr_Audio
 {

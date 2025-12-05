@@ -1,3 +1,5 @@
+//  Copyright © 2015-2023 Pico Technology Co., Ltd. All Rights Reserved.
+
 #include "PicoAmbisonicsRenderer.h"
 
 namespace Pxr_Audio
@@ -286,7 +288,11 @@ namespace Pxr_Audio
 			}
 			else
 			{
+#if ENGINE_MAJOR_VERSION == 5 && ENGINE_MINOR_VERSION >= 5
+				Audio::ArrayAddInPlace(InputPacketUnreal.AudioBuffer, OutputPacketPico.AudioBuffer);
+#else
 				Audio::MixInBufferFast(InputPacketUnreal.AudioBuffer, OutputPacketPico.AudioBuffer, 1.0f);
+#endif
 			}
 		}
 #pragma endregion FAmbisonicsTranscoder_Impl
